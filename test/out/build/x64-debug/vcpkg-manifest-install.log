@@ -1,0 +1,493 @@
+Récupération des informations de Registre à partir de https://github.com/microsoft/vcpkg (HEAD)...
+Détection du hachage du compilateur pour le triplet x64-windows...
+Compilateur trouvé : C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.42.34433/bin/Hostx64/x64/cl.exe
+Les packages suivants seront générés et installés :
+  * brotli:x64-windows@1.1.0#1 -- C:\Users\m.gelot\AppData\Local\vcpkg\registries\git-trees\4e5b5ae1ad26c80535c893cc0307121f0398549e
+  * bzip2[core,tool]:x64-windows@1.0.8#5 -- C:\Users\m.gelot\AppData\Local\vcpkg\registries\git-trees\92e9a8bbf1abbd89872b48ad82fcf75852de1006
+  * egl-registry:x64-windows@2024-01-25 -- C:\Users\m.gelot\AppData\Local\vcpkg\registries\git-trees\d883db43133dd223c4ffdbef4193943f6784d43a
+  * freetype[brotli,bzip2,core,png,zlib]:x64-windows@2.13.2 -- C:\Users\m.gelot\AppData\Local\vcpkg\registries\git-trees\443f320ccf3139bc1818f0cc273944a56e960d6e
+  * libflac[core,stack-protector]:x64-windows@1.4.3#2 -- C:\Users\m.gelot\AppData\Local\vcpkg\registries\git-trees\a92a3397dfb70e6eec94fab7b3665a1288d9f7bd
+  * libogg:x64-windows@1.3.5#1 -- C:\Users\m.gelot\AppData\Local\vcpkg\registries\git-trees\98e27727c32704393494d32615c25b7b16eb3067
+  * libpng:x64-windows@1.6.43 -- C:\Users\m.gelot\AppData\Local\vcpkg\registries\git-trees\8673cfd41804628ce52c499b8d23c5696104ec47
+  * libvorbis:x64-windows@1.3.7#2 -- C:\Users\m.gelot\AppData\Local\vcpkg\registries\git-trees\c4c646a26ce3e6ad63992d3e4a55cb185159b23c
+  * openal-soft:x64-windows@1.23.1 -- C:\Users\m.gelot\AppData\Local\vcpkg\registries\git-trees\d23d6573247830bd439e418fe0e31321de778d85
+  * opengl:x64-windows@2022-12-04#3 -- C:\Users\m.gelot\AppData\Local\vcpkg\registries\git-trees\c3ae71738f88449ebcd781cef60d9a253fa091d4
+  * opengl-registry:x64-windows@2024-02-10#1 -- C:\Users\m.gelot\AppData\Local\vcpkg\registries\git-trees\22f7aa58ee78c9f0db904b6251e9265f2be26f9d
+    sfml:x64-windows@2.6.1 -- C:\Users\m.gelot\AppData\Local\vcpkg\registries\git-trees\3cf9cce0cc82c37f5a37c1c97d05c7fcb4609486
+  * stb:x64-windows@2023-04-11#1 -- C:\Users\m.gelot\AppData\Local\vcpkg\registries\git-trees\acd9c2bf96a3e32fbf629b1bfd6cba4827761069
+  * vcpkg-cmake:x64-windows@2023-05-04 -- C:\Users\m.gelot\AppData\Local\vcpkg\registries\git-trees\88a7058fc7fa73a9c4c99cfcae9d79e2abf87a5a
+  * vcpkg-cmake-config:x64-windows@2022-02-06#1 -- C:\Users\m.gelot\AppData\Local\vcpkg\registries\git-trees\8d54cc4f487d51b655abec5f9c9c3f86ca83311f
+  * zlib:x64-windows@1.3.1 -- C:\Users\m.gelot\AppData\Local\vcpkg\registries\git-trees\3f05e04b9aededb96786a911a16193cdb711f0c9
+Les packages supplémentaires (*) seront modifiés pour terminer cette opération.
+0 package(s) restauré(s) à partir de C:\Users\m.gelot\AppData\Local\vcpkg\archives dans 577 us. Utilisez --debug pour afficher plus de détails.
+Installation de 1/16 vcpkg-cmake-config:x64-windows@2022-02-06#1...
+Génération de vcpkg-cmake-config:x64-windows@2022-02-06#1...
+C:\Users\m.gelot\AppData\Local\vcpkg\registries\git-trees\8d54cc4f487d51b655abec5f9c9c3f86ca83311f: info: installation du port de superposition ici
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/vcpkg-cmake-config_x64-windows/share/vcpkg-cmake-config/vcpkg_cmake_config_fixup.cmake
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/vcpkg-cmake-config_x64-windows/share/vcpkg-cmake-config/vcpkg-port-config.cmake
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/vcpkg-cmake-config_x64-windows/share/vcpkg-cmake-config/copyright
+-- Validation post-build ignorée en raison de VCPKG_POLICY_EMPTY_PACKAGE
+Fichiers binaires stockés dans 1 destinations dans 78.6 ms.
+Temps écoulé pour gérer vcpkg-cmake-config:x64-windows: 148 ms
+ABI du package vcpkg-cmake-config:x64-windows : dc32e9f302948e0e0e13357f1659f02398d84040a638dab5f56a0495c5ab4a18
+Installation de 2/16 vcpkg-cmake:x64-windows@2023-05-04...
+Génération de vcpkg-cmake:x64-windows@2023-05-04...
+C:\Users\m.gelot\AppData\Local\vcpkg\registries\git-trees\88a7058fc7fa73a9c4c99cfcae9d79e2abf87a5a: info: installation du port de superposition ici
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/vcpkg-cmake_x64-windows/share/vcpkg-cmake/vcpkg_cmake_configure.cmake
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/vcpkg-cmake_x64-windows/share/vcpkg-cmake/vcpkg_cmake_build.cmake
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/vcpkg-cmake_x64-windows/share/vcpkg-cmake/vcpkg_cmake_install.cmake
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/vcpkg-cmake_x64-windows/share/vcpkg-cmake/vcpkg-port-config.cmake
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/vcpkg-cmake_x64-windows/share/vcpkg-cmake/copyright
+-- Exécution de la validation post-build
+Fichiers binaires stockés dans 1 destinations dans 32.5 ms.
+Temps écoulé pour gérer vcpkg-cmake:x64-windows: 124 ms
+ABI du package vcpkg-cmake:x64-windows : d9aef9f0c648b7b5b6aa495fa3971fe4b89cdca96d34739fb4fdb8e7ec0b8449
+Installation de 3/16 stb:x64-windows@2023-04-11#1...
+Génération de stb:x64-windows@2023-04-11#1...
+C:\Users\m.gelot\AppData\Local\vcpkg\registries\git-trees\acd9c2bf96a3e32fbf629b1bfd6cba4827761069: info: installation du port de superposition ici
+-- Downloading https://github.com/nothings/stb/archive/5736b15f7ea0ffb08dd38af21067c314d6a3aae9.tar.gz -> nothings-stb-5736b15f7ea0ffb08dd38af21067c314d6a3aae9.tar.gz...
+-- Extracting source C:/Users/m.gelot/AppData/Local/vcpkg/downloads/nothings-stb-5736b15f7ea0ffb08dd38af21067c314d6a3aae9.tar.gz
+-- Using source at C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/stb/src/14d6a3aae9-dc9b68ccde.clean
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/stb_x64-windows/share/stb/FindStb.cmake
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/stb_x64-windows/share/stb/vcpkg-cmake-wrapper.cmake
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/stb_x64-windows/share/stb/usage
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/stb_x64-windows/share/stb/copyright
+-- Exécution de la validation post-build
+Fichiers binaires stockés dans 1 destinations dans 69.8 ms.
+Temps écoulé pour gérer stb:x64-windows: 1.5 s
+ABI du package stb:x64-windows : 8c509788305e615990324066781027a6f76115a1c805894b1fd7687d22513f05
+Installation de 4/16 egl-registry:x64-windows@2024-01-25...
+Génération de egl-registry:x64-windows@2024-01-25...
+C:\Users\m.gelot\AppData\Local\vcpkg\registries\git-trees\d883db43133dd223c4ffdbef4193943f6784d43a: info: installation du port de superposition ici
+-- Using cached KhronosGroup-EGL-Registry-7db3005d4c2cb439f129a0adc931f3274f9019e6.tar.gz.
+-- Extracting source C:/Users/m.gelot/AppData/Local/vcpkg/downloads/KhronosGroup-EGL-Registry-7db3005d4c2cb439f129a0adc931f3274f9019e6.tar.gz
+-- Using source at C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/egl-registry/src/274f9019e6-49d6bdb34a.clean
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/egl-registry_x64-windows/share/egl-registry/copyright
+-- Exécution de la validation post-build
+Fichiers binaires stockés dans 1 destinations dans 65.6 ms.
+Temps écoulé pour gérer egl-registry:x64-windows: 545 ms
+ABI du package egl-registry:x64-windows : cbc69ed935081e56e27c1d601a3e14a0da38bab3fab7ba69da28847aae38bfb7
+Installation de 5/16 opengl-registry:x64-windows@2024-02-10#1...
+Génération de opengl-registry:x64-windows@2024-02-10#1...
+C:\Users\m.gelot\AppData\Local\vcpkg\registries\git-trees\22f7aa58ee78c9f0db904b6251e9265f2be26f9d: info: installation du port de superposition ici
+-- Using cached KhronosGroup-OpenGL-Registry-3530768138c5ba3dfbb2c43c830493f632f7ea33.tar.gz.
+-- Extracting source C:/Users/m.gelot/AppData/Local/vcpkg/downloads/KhronosGroup-OpenGL-Registry-3530768138c5ba3dfbb2c43c830493f632f7ea33.tar.gz
+-- Using source at C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/opengl-registry/src/f632f7ea33-4952f9ace9.clean
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/opengl-registry_x64-windows/share/opengl-registry/copyright
+-- Exécution de la validation post-build
+Fichiers binaires stockés dans 1 destinations dans 257 ms.
+Temps écoulé pour gérer opengl-registry:x64-windows: 2.9 s
+ABI du package opengl-registry:x64-windows : 13939a95cf867330e057c466d01d8fc84cb6520d13c7eb8b6b246de2c6e03a8a
+Installation de 6/16 opengl:x64-windows@2022-12-04#3...
+Génération de opengl:x64-windows@2022-12-04#3...
+C:\Users\m.gelot\AppData\Local\vcpkg\registries\git-trees\c3ae71738f88449ebcd781cef60d9a253fa091d4: info: installation du port de superposition ici
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/opengl_x64-windows/include/GL/gl.h
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/opengl_x64-windows/include/GL/glu.h
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/opengl_x64-windows/lib/OpenGL32.Lib
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/opengl_x64-windows/lib/GlU32.Lib
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/opengl_x64-windows/debug/lib/OpenGL32.Lib
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/opengl_x64-windows/debug/lib/GlU32.Lib
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/opengl_x64-windows/lib/pkgconfig/glu.pc
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/opengl_x64-windows/lib/pkgconfig/opengl.pc
+-- Using cached msys2-mingw-w64-x86_64-pkgconf-1~2.2.0-1-any.pkg.tar.zst.
+-- Using cached msys2-msys2-runtime-3.5.3-3-x86_64.pkg.tar.zst.
+-- Using msys root at C:/Users/m.gelot/AppData/Local/vcpkg/downloads/tools/msys2/1e74ca60daa10104
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/opengl_x64-windows/debug/lib/pkgconfig/glu.pc
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/opengl_x64-windows/debug/lib/pkgconfig/opengl.pc
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/opengl_x64-windows/share/opengl/usage
+-- Exécution de la validation post-build
+Fichiers binaires stockés dans 1 destinations dans 36.4 ms.
+Temps écoulé pour gérer opengl:x64-windows: 441 ms
+ABI du package opengl:x64-windows : b00988a813e7623d85b65785f06db75108662938d0de0ae5c5226697c094e2e7
+Installation de 7/16 openal-soft:x64-windows@1.23.1...
+Génération de openal-soft:x64-windows@1.23.1...
+C:\Users\m.gelot\AppData\Local\vcpkg\registries\git-trees\d23d6573247830bd439e418fe0e31321de778d85: info: installation du port de superposition ici
+-- Using cached kcat-openal-soft-1.23.1.tar.gz.
+-- Extracting source C:/Users/m.gelot/AppData/Local/vcpkg/downloads/kcat-openal-soft-1.23.1.tar.gz
+-- Applying patch c12ada68951ea67a59bef7d4fcdf22334990c12a.patch
+-- Using source at C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/src/1.23.1-180897dbaa.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-dbg
+-- Building x64-windows-rel
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/lib/pkgconfig/openal.pc
+-- Using cached msys2-mingw-w64-x86_64-pkgconf-1~2.2.0-1-any.pkg.tar.zst.
+-- Using cached msys2-msys2-runtime-3.5.3-3-x86_64.pkg.tar.zst.
+-- Using msys root at C:/Users/m.gelot/AppData/Local/vcpkg/downloads/tools/msys2/1e74ca60daa10104
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/lib/pkgconfig/openal.pc
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/share/openal-soft/copyright
+CMake Warning at scripts/cmake/vcpkg_copy_pdbs.cmake:44 (message):
+  Could not find a matching pdb file for:
+
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/bin/OpenAL32.dll
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/bin/OpenAL32.dll
+
+Call Stack (most recent call first):
+  C:/Users/m.gelot/AppData/Local/vcpkg/registries/git-trees/d23d6573247830bd439e418fe0e31321de778d85/portfile.cmake:108 (vcpkg_copy_pdbs)
+  scripts/ports.cmake:192 (include)
+
+
+-- Exécution de la validation post-build
+Fichiers binaires stockés dans 1 destinations dans 314 ms.
+Temps écoulé pour gérer openal-soft:x64-windows: 32 s
+ABI du package openal-soft:x64-windows : ff7758b14bd6eec7b8d1a7a56a4cb811f826638e283dc67770b7b930f22b050a
+Installation de 8/16 libogg:x64-windows@1.3.5#1...
+Génération de libogg:x64-windows@1.3.5#1...
+C:\Users\m.gelot\AppData\Local\vcpkg\registries\git-trees\98e27727c32704393494d32615c25b7b16eb3067: info: installation du port de superposition ici
+-- Using cached xiph-ogg-v1.3.5.tar.gz.
+-- Extracting source C:/Users/m.gelot/AppData/Local/vcpkg/downloads/xiph-ogg-v1.3.5.tar.gz
+-- Using source at C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/libogg/src/v1.3.5-1a4243fef9.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-dbg
+-- Building x64-windows-rel
+CMake Warning at scripts/cmake/vcpkg_copy_pdbs.cmake:44 (message):
+  Could not find a matching pdb file for:
+
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libogg_x64-windows/bin/ogg.dll
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libogg_x64-windows/debug/bin/ogg.dll
+
+Call Stack (most recent call first):
+  C:/Users/m.gelot/AppData/Local/vcpkg/registries/git-trees/98e27727c32704393494d32615c25b7b16eb3067/portfile.cmake:28 (vcpkg_copy_pdbs)
+  scripts/ports.cmake:192 (include)
+
+
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libogg_x64-windows/lib/pkgconfig/ogg.pc
+-- Using cached msys2-mingw-w64-x86_64-pkgconf-1~2.2.0-1-any.pkg.tar.zst.
+-- Using cached msys2-msys2-runtime-3.5.3-3-x86_64.pkg.tar.zst.
+-- Using msys root at C:/Users/m.gelot/AppData/Local/vcpkg/downloads/tools/msys2/1e74ca60daa10104
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libogg_x64-windows/debug/lib/pkgconfig/ogg.pc
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libogg_x64-windows/share/libogg/copyright
+-- Exécution de la validation post-build
+Fichiers binaires stockés dans 1 destinations dans 35.2 ms.
+Temps écoulé pour gérer libogg:x64-windows: 9.2 s
+ABI du package libogg:x64-windows : de91f40be17d1171ad6d4d0a2984a71e86bf3e094ce3ca44f627b6d9b2df34e3
+Installation de 9/16 libvorbis:x64-windows@1.3.7#2...
+Génération de libvorbis:x64-windows@1.3.7#2...
+C:\Users\m.gelot\AppData\Local\vcpkg\registries\git-trees\c4c646a26ce3e6ad63992d3e4a55cb185159b23c: info: installation du port de superposition ici
+-- Using cached xiph-vorbis-v1.3.7.tar.gz.
+-- Extracting source C:/Users/m.gelot/AppData/Local/vcpkg/downloads/xiph-vorbis-v1.3.7.tar.gz
+-- Applying patch 0001-Dont-export-vorbisenc-functions.patch
+-- Applying patch 0002-Fixup-pkgconfig-libs.patch
+-- Applying patch 0003-def-mingw-compat.patch
+-- Using source at C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/libvorbis/src/v1.3.7-1480004d18.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-dbg
+-- Building x64-windows-rel
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/lib/pkgconfig/vorbis.pc
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/lib/pkgconfig/vorbisenc.pc
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/lib/pkgconfig/vorbisfile.pc
+-- Using cached msys2-mingw-w64-x86_64-pkgconf-1~2.2.0-1-any.pkg.tar.zst.
+-- Using cached msys2-msys2-runtime-3.5.3-3-x86_64.pkg.tar.zst.
+-- Using msys root at C:/Users/m.gelot/AppData/Local/vcpkg/downloads/tools/msys2/1e74ca60daa10104
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/debug/lib/pkgconfig/vorbis.pc
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/debug/lib/pkgconfig/vorbisenc.pc
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/debug/lib/pkgconfig/vorbisfile.pc
+CMake Warning at scripts/cmake/vcpkg_copy_pdbs.cmake:44 (message):
+  Could not find a matching pdb file for:
+
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/bin/vorbis.dll
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/bin/vorbisenc.dll
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/bin/vorbisfile.dll
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/debug/bin/vorbis.dll
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/debug/bin/vorbisenc.dll
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/debug/bin/vorbisfile.dll
+
+Call Stack (most recent call first):
+  C:/Users/m.gelot/AppData/Local/vcpkg/registries/git-trees/c4c646a26ce3e6ad63992d3e4a55cb185159b23c/portfile.cmake:20 (vcpkg_copy_pdbs)
+  scripts/ports.cmake:192 (include)
+
+
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/share/libvorbis/usage
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/share/libvorbis/copyright
+-- Exécution de la validation post-build
+Fichiers binaires stockés dans 1 destinations dans 102 ms.
+Temps écoulé pour gérer libvorbis:x64-windows: 5.5 s
+ABI du package libvorbis:x64-windows : a2da297c2108fb068ae756baaf48aeec2b21a941b5e87117f58f761327956bee
+Installation de 10/16 libflac[core,stack-protector]:x64-windows@1.4.3#2...
+Génération de libflac[core,stack-protector]:x64-windows@1.4.3#2...
+C:\Users\m.gelot\AppData\Local\vcpkg\registries\git-trees\a92a3397dfb70e6eec94fab7b3665a1288d9f7bd: info: installation du port de superposition ici
+-- Using cached xiph-flac-1.4.3.tar.gz.
+-- Extracting source C:/Users/m.gelot/AppData/Local/vcpkg/downloads/xiph-flac-1.4.3.tar.gz
+-- Applying patch fix-compile-options.patch
+-- Using source at C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/libflac/src/1.4.3-00043104ae.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-dbg
+-- Building x64-windows-rel
+CMake Warning at scripts/cmake/vcpkg_copy_pdbs.cmake:44 (message):
+  Could not find a matching pdb file for:
+
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libflac_x64-windows/bin/FLAC++.dll
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libflac_x64-windows/bin/FLAC.dll
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libflac_x64-windows/debug/bin/FLAC++.dll
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libflac_x64-windows/debug/bin/FLAC.dll
+
+Call Stack (most recent call first):
+  C:/Users/m.gelot/AppData/Local/vcpkg/registries/git-trees/a92a3397dfb70e6eec94fab7b3665a1288d9f7bd/portfile.cmake:38 (vcpkg_copy_pdbs)
+  scripts/ports.cmake:192 (include)
+
+
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libflac_x64-windows/lib/pkgconfig/flac++.pc
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libflac_x64-windows/lib/pkgconfig/flac.pc
+-- Using cached msys2-mingw-w64-x86_64-pkgconf-1~2.2.0-1-any.pkg.tar.zst.
+-- Using cached msys2-msys2-runtime-3.5.3-3-x86_64.pkg.tar.zst.
+-- Using msys root at C:/Users/m.gelot/AppData/Local/vcpkg/downloads/tools/msys2/1e74ca60daa10104
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libflac_x64-windows/debug/lib/pkgconfig/flac++.pc
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libflac_x64-windows/debug/lib/pkgconfig/flac.pc
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libflac_x64-windows/share/libflac/copyright
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libflac_x64-windows/share/libflac/usage
+-- Exécution de la validation post-build
+Fichiers binaires stockés dans 1 destinations dans 87.8 ms.
+Temps écoulé pour gérer libflac:x64-windows: 14 s
+ABI du package libflac:x64-windows : 034a036f70608da856a345219b591f9e2f1501338d5412e338ee4320d890c5ca
+Installation de 11/16 zlib:x64-windows@1.3.1...
+Génération de zlib:x64-windows@1.3.1...
+C:\Users\m.gelot\AppData\Local\vcpkg\registries\git-trees\3f05e04b9aededb96786a911a16193cdb711f0c9: info: installation du port de superposition ici
+-- Using cached madler-zlib-v1.3.1.tar.gz.
+-- Extracting source C:/Users/m.gelot/AppData/Local/vcpkg/downloads/madler-zlib-v1.3.1.tar.gz
+-- Applying patch 0001-Prevent-invalid-inclusions-when-HAVE_-is-set-to-0.patch
+-- Applying patch 0002-build-static-or-shared-not-both.patch
+-- Applying patch 0003-android-and-mingw-fixes.patch
+-- Using source at C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/zlib/src/v1.3.1-2e5db616bf.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-dbg
+-- Building x64-windows-rel
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/zlib_x64-windows/share/zlib/vcpkg-cmake-wrapper.cmake
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/zlib_x64-windows/lib/pkgconfig/zlib.pc
+-- Using cached msys2-mingw-w64-x86_64-pkgconf-1~2.2.0-1-any.pkg.tar.zst.
+-- Using cached msys2-msys2-runtime-3.5.3-3-x86_64.pkg.tar.zst.
+-- Using msys root at C:/Users/m.gelot/AppData/Local/vcpkg/downloads/tools/msys2/1e74ca60daa10104
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/zlib_x64-windows/debug/lib/pkgconfig/zlib.pc
+CMake Warning at scripts/cmake/vcpkg_copy_pdbs.cmake:44 (message):
+  Could not find a matching pdb file for:
+
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/zlib_x64-windows/bin/zlib1.dll
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/zlib_x64-windows/debug/bin/zlibd1.dll
+
+Call Stack (most recent call first):
+  C:/Users/m.gelot/AppData/Local/vcpkg/registries/git-trees/3f05e04b9aededb96786a911a16193cdb711f0c9/portfile.cmake:44 (vcpkg_copy_pdbs)
+  scripts/ports.cmake:192 (include)
+
+
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/zlib_x64-windows/share/zlib/copyright
+-- Exécution de la validation post-build
+Fichiers binaires stockés dans 1 destinations dans 41.7 ms.
+Temps écoulé pour gérer zlib:x64-windows: 4.4 s
+ABI du package zlib:x64-windows : 961d9b5e189fc12e39d80ce071fc9af974847253d5940c9862f22b8c4dd2eee8
+Installation de 12/16 libpng:x64-windows@1.6.43...
+Génération de libpng:x64-windows@1.6.43...
+C:\Users\m.gelot\AppData\Local\vcpkg\registries\git-trees\8673cfd41804628ce52c499b8d23c5696104ec47: info: installation du port de superposition ici
+-- Using cached glennrp-libpng-v1.6.43.tar.gz.
+-- Extracting source C:/Users/m.gelot/AppData/Local/vcpkg/downloads/glennrp-libpng-v1.6.43.tar.gz
+-- Applying patch cmake.patch
+-- Applying patch fix-export-targets.patch
+-- Applying patch libm.patch
+-- Applying patch pkgconfig.patch
+-- Applying patch fix-msa-support-for-mips.patch
+-- Using source at C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/libpng/src/v1.6.43-e957a32120.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-dbg
+-- Building x64-windows-rel
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/share/png/vcpkg-cmake-wrapper.cmake
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/lib/pkgconfig/libpng16.pc
+-- Using cached msys2-mingw-w64-x86_64-pkgconf-1~2.2.0-1-any.pkg.tar.zst.
+-- Using cached msys2-msys2-runtime-3.5.3-3-x86_64.pkg.tar.zst.
+-- Using msys root at C:/Users/m.gelot/AppData/Local/vcpkg/downloads/tools/msys2/1e74ca60daa10104
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/debug/lib/pkgconfig/libpng16.pc
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/debug/lib/pkgconfig/libpng.pc
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/lib/pkgconfig/libpng.pc
+CMake Warning at scripts/cmake/vcpkg_copy_pdbs.cmake:44 (message):
+  Could not find a matching pdb file for:
+
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/bin/libpng16.dll
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/debug/bin/libpng16d.dll
+
+Call Stack (most recent call first):
+  C:/Users/m.gelot/AppData/Local/vcpkg/registries/git-trees/8673cfd41804628ce52c499b8d23c5696104ec47/portfile.cmake:103 (vcpkg_copy_pdbs)
+  scripts/ports.cmake:192 (include)
+
+
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/share/libpng/usage
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/share/libpng/copyright
+-- Exécution de la validation post-build
+Fichiers binaires stockés dans 1 destinations dans 60.6 ms.
+Temps écoulé pour gérer libpng:x64-windows: 5.4 s
+ABI du package libpng:x64-windows : 595d5e1cccbb04e077e0a40d7faa5e4fea0075686fb609e4ff4da543b7484d74
+Installation de 13/16 bzip2[core,tool]:x64-windows@1.0.8#5...
+Génération de bzip2[core,tool]:x64-windows@1.0.8#5...
+C:\Users\m.gelot\AppData\Local\vcpkg\registries\git-trees\92e9a8bbf1abbd89872b48ad82fcf75852de1006: info: installation du port de superposition ici
+-- Using cached bzip2-1.0.8.tar.gz.
+-- Extracting source C:/Users/m.gelot/AppData/Local/vcpkg/downloads/bzip2-1.0.8.tar.gz
+-- Applying patch fix-import-export-macros.patch
+-- Using source at C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/bzip2/src/bzip2-1-336d4794a3.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-dbg
+-- Building x64-windows-rel
+CMake Warning at scripts/cmake/vcpkg_copy_pdbs.cmake:44 (message):
+  Could not find a matching pdb file for:
+
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/bzip2_x64-windows/bin/bz2.dll
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/bzip2_x64-windows/debug/bin/bz2d.dll
+
+Call Stack (most recent call first):
+  C:/Users/m.gelot/AppData/Local/vcpkg/registries/git-trees/92e9a8bbf1abbd89872b48ad82fcf75852de1006/portfile.cmake:31 (vcpkg_copy_pdbs)
+  scripts/ports.cmake:192 (include)
+
+
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/bzip2_x64-windows/lib/pkgconfig/bzip2.pc
+-- Using cached msys2-mingw-w64-x86_64-pkgconf-1~2.2.0-1-any.pkg.tar.zst.
+-- Using cached msys2-msys2-runtime-3.5.3-3-x86_64.pkg.tar.zst.
+-- Using msys root at C:/Users/m.gelot/AppData/Local/vcpkg/downloads/tools/msys2/1e74ca60daa10104
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/bzip2_x64-windows/debug/lib/pkgconfig/bzip2.pc
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/bzip2_x64-windows/share/bzip2/copyright
+-- Exécution de la validation post-build
+Fichiers binaires stockés dans 1 destinations dans 77.6 ms.
+Temps écoulé pour gérer bzip2:x64-windows: 4 s
+ABI du package bzip2:x64-windows : 600a68ce98a2105b55c0c774642858e1bc1864efc225d08b726daa5a27b8e0bb
+Installation de 14/16 brotli:x64-windows@1.1.0#1...
+Génération de brotli:x64-windows@1.1.0#1...
+C:\Users\m.gelot\AppData\Local\vcpkg\registries\git-trees\4e5b5ae1ad26c80535c893cc0307121f0398549e: info: installation du port de superposition ici
+-- Using cached google-brotli-v1.1.0.tar.gz.
+-- Extracting source C:/Users/m.gelot/AppData/Local/vcpkg/downloads/google-brotli-v1.1.0.tar.gz
+-- Applying patch install.patch
+-- Applying patch fix-arm-uwp.patch
+-- Applying patch pkgconfig.patch
+-- Applying patch emscripten.patch
+-- Using source at C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/brotli/src/v1.1.0-958bece74c.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-dbg
+-- Building x64-windows-rel
+CMake Warning at scripts/cmake/vcpkg_copy_pdbs.cmake:44 (message):
+  Could not find a matching pdb file for:
+
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/bin/brotlicommon.dll
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/bin/brotlidec.dll
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/bin/brotlienc.dll
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/bin/brotlicommon.dll
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/bin/brotlidec.dll
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/bin/brotlienc.dll
+
+Call Stack (most recent call first):
+  C:/Users/m.gelot/AppData/Local/vcpkg/registries/git-trees/4e5b5ae1ad26c80535c893cc0307121f0398549e/portfile.cmake:20 (vcpkg_copy_pdbs)
+  scripts/ports.cmake:192 (include)
+
+
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/lib/pkgconfig/libbrotlicommon.pc
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/lib/pkgconfig/libbrotlidec.pc
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/lib/pkgconfig/libbrotlienc.pc
+-- Using cached msys2-mingw-w64-x86_64-pkgconf-1~2.2.0-1-any.pkg.tar.zst.
+-- Using cached msys2-msys2-runtime-3.5.3-3-x86_64.pkg.tar.zst.
+-- Using msys root at C:/Users/m.gelot/AppData/Local/vcpkg/downloads/tools/msys2/1e74ca60daa10104
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/lib/pkgconfig/libbrotlicommon.pc
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/lib/pkgconfig/libbrotlidec.pc
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/lib/pkgconfig/libbrotlienc.pc
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/share/brotli/usage
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/share/brotli/copyright
+-- Exécution de la validation post-build
+Fichiers binaires stockés dans 1 destinations dans 379 ms.
+Temps écoulé pour gérer brotli:x64-windows: 10 s
+ABI du package brotli:x64-windows : b95e344b6d87e6fa1947b4c18cca83ad1ad47bb2a2c33c009e94e5e3e24650f9
+Installation de 15/16 freetype[brotli,bzip2,core,png,zlib]:x64-windows@2.13.2...
+Génération de freetype[brotli,bzip2,core,png,zlib]:x64-windows@2.13.2...
+C:\Users\m.gelot\AppData\Local\vcpkg\registries\git-trees\443f320ccf3139bc1818f0cc273944a56e960d6e: info: installation du port de superposition ici
+-- Downloading https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download;https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download?use_mirror=cfhcable;https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download?use_mirror=pilotfiber;https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download?use_mirror=gigenet;https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download?use_mirror=versaweb;https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download?use_mirror=ayera;https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download?use_mirror=netactuate;https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download?use_mirror=phoenixnap;https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download?use_mirror=astuteinternet;https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download?use_mirror=freefr;https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download?use_mirror=netcologne;https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download?use_mirror=deac-riga;https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download?use_mirror=excellmedia;https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download?use_mirror=iweb;https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download?use_mirror=jaist;https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download?use_mirror=jztkft;https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download?use_mirror=managedway;https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download?use_mirror=nchc;https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download?use_mirror=netix;https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download?use_mirror=ufpr;https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download?use_mirror=tenet -> freetype-2.13.2.tar.xz...
+-- Extracting source C:/Users/m.gelot/AppData/Local/vcpkg/downloads/freetype-2.13.2.tar.xz
+-- Applying patch 0003-Fix-UWP.patch
+-- Applying patch brotli-static.patch
+-- Applying patch bzip2.patch
+-- Applying patch fix-exports.patch
+-- Using source at C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/freetype/src/freetype-2-dec0fa0f13.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-dbg
+-- Building x64-windows-rel
+CMake Warning at scripts/cmake/vcpkg_copy_pdbs.cmake:44 (message):
+  Could not find a matching pdb file for:
+
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/freetype_x64-windows/bin/freetype.dll
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/freetype_x64-windows/debug/bin/freetyped.dll
+
+Call Stack (most recent call first):
+  C:/Users/m.gelot/AppData/Local/vcpkg/registries/git-trees/443f320ccf3139bc1818f0cc273944a56e960d6e/portfile.cmake:36 (vcpkg_copy_pdbs)
+  scripts/ports.cmake:192 (include)
+
+
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/freetype_x64-windows/lib/pkgconfig/freetype2.pc
+-- Using cached msys2-mingw-w64-x86_64-pkgconf-1~2.2.0-1-any.pkg.tar.zst.
+-- Using cached msys2-msys2-runtime-3.5.3-3-x86_64.pkg.tar.zst.
+-- Using msys root at C:/Users/m.gelot/AppData/Local/vcpkg/downloads/tools/msys2/1e74ca60daa10104
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/freetype_x64-windows/debug/lib/pkgconfig/freetype2.pc
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/freetype_x64-windows/share/freetype/usage
+-- Exécution de la validation post-build
+Fichiers binaires stockés dans 1 destinations dans 155 ms.
+Temps écoulé pour gérer freetype:x64-windows: 11 s
+ABI du package freetype:x64-windows : 18ac68f015af09b47fdb3c94f0e443cda02b0e5f268e31929f387df395889daf
+Installation de 16/16 sfml:x64-windows@2.6.1...
+Génération de sfml:x64-windows@2.6.1...
+C:\Users\m.gelot\AppData\Local\vcpkg\registries\git-trees\3cf9cce0cc82c37f5a37c1c97d05c7fcb4609486: info: installation du port de superposition ici
+-- Using cached SFML-SFML-2.6.1.tar.gz.
+-- Extracting source C:/Users/m.gelot/AppData/Local/vcpkg/downloads/SFML-SFML-2.6.1.tar.gz
+-- Applying patch fix-dependencies.patch
+-- Using source at C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/sfml/src/2.6.1-f39277683b.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+CMake Warning at C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/x64-windows/share/vcpkg-cmake/vcpkg_cmake_configure.cmake:318 (message):
+  The following variables are not used in CMakeLists.txt:
+
+      SFML_MISC_INSTALL_PREFIX
+      SFML_WARNINGS_AS_ERRORS
+
+  Please recheck them and remove the unnecessary options from the
+  `vcpkg_cmake_configure` call.
+
+  If these options should still be passed for whatever reason, please use the
+  `MAYBE_UNUSED_VARIABLES` argument.
+Call Stack (most recent call first):
+  C:/Users/m.gelot/AppData/Local/vcpkg/registries/git-trees/3cf9cce0cc82c37f5a37c1c97d05c7fcb4609486/portfile.cmake:17 (vcpkg_cmake_configure)
+  scripts/ports.cmake:192 (include)
+
+
+-- Building x64-windows-dbg
+-- Building x64-windows-rel
+CMake Warning at scripts/cmake/vcpkg_copy_pdbs.cmake:44 (message):
+  Could not find a matching pdb file for:
+
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/sfml_x64-windows/bin/sfml-audio-2.dll
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/sfml_x64-windows/bin/sfml-graphics-2.dll
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/sfml_x64-windows/bin/sfml-network-2.dll
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/sfml_x64-windows/bin/sfml-system-2.dll
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/sfml_x64-windows/bin/sfml-window-2.dll
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/sfml_x64-windows/debug/bin/sfml-audio-d-2.dll
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/sfml_x64-windows/debug/bin/sfml-graphics-d-2.dll
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/sfml_x64-windows/debug/bin/sfml-network-d-2.dll
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/sfml_x64-windows/debug/bin/sfml-system-d-2.dll
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/sfml_x64-windows/debug/bin/sfml-window-d-2.dll
+
+Call Stack (most recent call first):
+  C:/Users/m.gelot/AppData/Local/vcpkg/registries/git-trees/3cf9cce0cc82c37f5a37c1c97d05c7fcb4609486/portfile.cmake:29 (vcpkg_copy_pdbs)
+  scripts/ports.cmake:192 (include)
+
+
+-- Using cached msys2-mingw-w64-x86_64-pkgconf-1~2.2.0-1-any.pkg.tar.zst.
+-- Using cached msys2-msys2-runtime-3.5.3-3-x86_64.pkg.tar.zst.
+-- Using msys root at C:/Users/m.gelot/AppData/Local/vcpkg/downloads/tools/msys2/1e74ca60daa10104
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/sfml_x64-windows/share/sfml/copyright
+-- Exécution de la validation post-build
+Fichiers binaires stockés dans 1 destinations dans 181 ms.
+Temps écoulé pour gérer sfml:x64-windows: 24 s
+ABI du package sfml:x64-windows : 807a05d1f7a1754c03b4278a0a0beaecfdc8ba8328791359dbdc10ff61c1b7fe
+Temps total de l’installation : 2.1 min
+The package sfml provides CMake targets:
+
+    find_package(SFML COMPONENTS system window graphics CONFIG REQUIRED)
+    target_link_libraries(main PRIVATE sfml-system sfml-network sfml-graphics sfml-window)
+
+    # If you want SFML to provide an implementation of main():
+    target_link_libraries(main PRIVATE sfml-main)
+

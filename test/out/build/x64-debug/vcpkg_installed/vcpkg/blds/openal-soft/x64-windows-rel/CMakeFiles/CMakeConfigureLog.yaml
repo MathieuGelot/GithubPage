@@ -1,0 +1,1292 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CMakeDetermineSystem.cmake:205 (message)"
+      - "CMakeLists.txt:65 (project)"
+    message: |
+      The system is: Windows - 10.0.22631 - AMD64
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:65 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+      Compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.42.34433/bin/Hostx64/x64/cl.exe 
+      Build flags: /nologo;/DWIN32;/D_WINDOWS;/utf-8;/MP
+      Id flags:  
+      
+      The output was:
+      0
+      CMakeCCompilerId.c
+      
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+      
+      The C compiler identification is MSVC, found in:
+        C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/3.29.5-msvc4/CompilerIdC/CMakeCCompilerId.exe
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:1216 (message)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:250 (CMAKE_DETERMINE_MSVC_SHOWINCLUDES_PREFIX)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:65 (project)"
+    message: |
+      Detecting C compiler /showIncludes prefix:
+        main.c
+        Remarque : inclusion du fichier :  C:\\GELOT\\DEUXIEME ANNEE\\0.PROJET\\GithubPage\\test\\out\\build\\x64-debug\\vcpkg_installed\\vcpkg\\blds\\openal-soft\\x64-windows-rel\\CMakeFiles\\ShowIncludes\\foo.h
+        
+      Found prefix "Remarque : inclusion du fichier :  "
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:65 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.42.34433/bin/Hostx64/x64/cl.exe 
+      Build flags: /nologo;/DWIN32;/D_WINDOWS;/utf-8;/GR;/EHsc;/MP
+      Id flags:  
+      
+      The output was:
+      0
+      CMakeCXXCompilerId.cpp
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+      
+      The CXX compiler identification is MSVC, found in:
+        C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/3.29.5-msvc4/CompilerIdCXX/CMakeCXXCompilerId.exe
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:1216 (message)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:250 (CMAKE_DETERMINE_MSVC_SHOWINCLUDES_PREFIX)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:65 (project)"
+    message: |
+      Detecting CXX compiler /showIncludes prefix:
+        main.c
+        Remarque : inclusion du fichier :  C:\\GELOT\\DEUXIEME ANNEE\\0.PROJET\\GithubPage\\test\\out\\build\\x64-debug\\vcpkg_installed\\vcpkg\\blds\\openal-soft\\x64-windows-rel\\CMakeFiles\\ShowIncludes\\foo.h
+        
+      Found prefix "Remarque : inclusion du fichier :  "
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:67 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:65 (project)"
+    checks:
+      - "Detecting C compiler ABI info"
+    directories:
+      source: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-8geryx"
+      binary: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-8geryx"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /utf-8 /MP "
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:dynamic,dynamic>:DLL>"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_CRT_LINKAGE: "dynamic"
+      VCPKG_CXX_FLAGS: ""
+      VCPKG_CXX_FLAGS_DEBUG: ""
+      VCPKG_CXX_FLAGS_RELEASE: ""
+      VCPKG_C_FLAGS: ""
+      VCPKG_C_FLAGS_DEBUG: ""
+      VCPKG_C_FLAGS_RELEASE: ""
+      VCPKG_INSTALLED_DIR: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed"
+      VCPKG_LINKER_FLAGS: ""
+      VCPKG_LINKER_FLAGS_DEBUG: ""
+      VCPKG_LINKER_FLAGS_RELEASE: ""
+      VCPKG_PLATFORM_TOOLSET: "v143"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_SET_CHARSET_FLAG: "ON"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+    buildResult:
+      variable: "CMAKE_C_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-8geryx'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_89952
+        [1/2] C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /utf-8 /MP   /D_DEBUG /MDd /Z7 /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_89952.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_89952.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.29\\Modules\\CMakeCCompilerABI.c"
+        [2/2] C:\\windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_89952.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_89952.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_89952.exe /implib:cmTC_89952.lib /pdb:cmTC_89952.pdb /version:0.0 /machine:x64  /nologo    /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:173 (message)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:65 (project)"
+    message: |
+      Parsed C implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(\\.[a-z]+)?|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(\\.[a-z]+)?|link\\.exe|lld-link(\\.exe)?))("|,| |$)]
+        linker tool for 'C': C:/PROGRA~1/MICROS~1/2022/COMMUN~1/VC/Tools/MSVC/1442~1.344/bin/Hostx64/x64/link.exe
+        implicit libs: []
+        implicit objs: []
+        implicit dirs: []
+        implicit fwks: []
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/Internal/CMakeDetermineLinkerId.cmake:40 (message)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:210 (cmake_determine_linker_id)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:65 (project)"
+    message: |
+      Running the C compiler's linker: "C:/PROGRA~1/MICROS~1/2022/COMMUN~1/VC/Tools/MSVC/1442~1.344/bin/Hostx64/x64/link.exe" "-v"
+      Microsoft (R) Incremental Linker Version 14.42.34433.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:67 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:65 (project)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-rh360h"
+      binary: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-rh360h"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: " /nologo /DWIN32 /D_WINDOWS /utf-8 /GR /EHsc /MP "
+      CMAKE_CXX_SCAN_FOR_MODULES: "OFF"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:dynamic,dynamic>:DLL>"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_CRT_LINKAGE: "dynamic"
+      VCPKG_CXX_FLAGS: ""
+      VCPKG_CXX_FLAGS_DEBUG: ""
+      VCPKG_CXX_FLAGS_RELEASE: ""
+      VCPKG_C_FLAGS: ""
+      VCPKG_C_FLAGS_DEBUG: ""
+      VCPKG_C_FLAGS_RELEASE: ""
+      VCPKG_INSTALLED_DIR: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed"
+      VCPKG_LINKER_FLAGS: ""
+      VCPKG_LINKER_FLAGS_DEBUG: ""
+      VCPKG_LINKER_FLAGS_RELEASE: ""
+      VCPKG_PLATFORM_TOOLSET: "v143"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_SET_CHARSET_FLAG: "ON"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-rh360h'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_db018
+        [1/2] C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /nologo /DWIN32 /D_WINDOWS /utf-8 /GR /EHsc /MP   /D_DEBUG /MDd /Z7 /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_db018.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_db018.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.29\\Modules\\CMakeCXXCompilerABI.cpp"
+        [2/2] C:\\windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_db018.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_db018.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_db018.exe /implib:cmTC_db018.lib /pdb:cmTC_db018.pdb /version:0.0 /machine:x64  /nologo    /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:173 (message)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:65 (project)"
+    message: |
+      Parsed CXX implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(\\.[a-z]+)?|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(\\.[a-z]+)?|link\\.exe|lld-link(\\.exe)?))("|,| |$)]
+        linker tool for 'CXX': C:/PROGRA~1/MICROS~1/2022/COMMUN~1/VC/Tools/MSVC/1442~1.344/bin/Hostx64/x64/link.exe
+        implicit libs: []
+        implicit objs: []
+        implicit dirs: []
+        implicit fwks: []
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/Internal/CMakeDetermineLinkerId.cmake:40 (message)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:210 (cmake_determine_linker_id)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:65 (project)"
+    message: |
+      Running the CXX compiler's linker: "C:/PROGRA~1/MICROS~1/2022/COMMUN~1/VC/Tools/MSVC/1442~1.344/bin/Hostx64/x64/link.exe" "-v"
+      Microsoft (R) Incremental Linker Version 14.42.34433.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CheckCXXSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "CMakeLists.txt:206 (check_cxx_source_compiles)"
+    checks:
+      - "Performing Test HAVE___RESTRICT"
+    directories:
+      source: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-hbmy5f"
+      binary: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-hbmy5f"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: " /nologo /DWIN32 /D_WINDOWS /utf-8 /GR /EHsc /MP "
+      CMAKE_MODULE_PATH: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/src/1.23.1-180897dbaa.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:dynamic,dynamic>:DLL>"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_CRT_LINKAGE: "dynamic"
+      VCPKG_CXX_FLAGS: ""
+      VCPKG_CXX_FLAGS_DEBUG: ""
+      VCPKG_CXX_FLAGS_RELEASE: ""
+      VCPKG_C_FLAGS: ""
+      VCPKG_C_FLAGS_DEBUG: ""
+      VCPKG_C_FLAGS_RELEASE: ""
+      VCPKG_INSTALLED_DIR: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed"
+      VCPKG_LINKER_FLAGS: ""
+      VCPKG_LINKER_FLAGS_DEBUG: ""
+      VCPKG_LINKER_FLAGS_RELEASE: ""
+      VCPKG_PLATFORM_TOOLSET: "v143"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_SET_CHARSET_FLAG: "ON"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+    buildResult:
+      variable: "HAVE___RESTRICT"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-hbmy5f'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_26f04
+        [1/2] C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DHAVE___RESTRICT  /nologo /DWIN32 /D_WINDOWS /utf-8 /GR /EHsc /MP   /D_DEBUG /MDd /Z7 /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_26f04.dir\\src.cxx.obj /FdCMakeFiles\\cmTC_26f04.dir\\ /FS -c "C:\\GELOT\\DEUXIEME ANNEE\\0.PROJET\\GithubPage\\test\\out\\build\\x64-debug\\vcpkg_installed\\vcpkg\\blds\\openal-soft\\x64-windows-rel\\CMakeFiles\\CMakeScratch\\TryCompile-hbmy5f\\src.cxx"
+        [2/2] C:\\windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_26f04.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_26f04.dir\\src.cxx.obj  /out:cmTC_26f04.exe /implib:cmTC_26f04.lib /pdb:cmTC_26f04.pdb /version:0.0 /machine:x64  /nologo    /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CheckCXXSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "CMakeLists.txt:217 (check_cxx_source_compiles)"
+    checks:
+      - "Performing Test HAVE_LIBATOMIC"
+    directories:
+      source: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-tvj6in"
+      binary: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-tvj6in"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: " /nologo /DWIN32 /D_WINDOWS /utf-8 /GR /EHsc /MP "
+      CMAKE_MODULE_PATH: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/src/1.23.1-180897dbaa.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:dynamic,dynamic>:DLL>"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_CRT_LINKAGE: "dynamic"
+      VCPKG_CXX_FLAGS: ""
+      VCPKG_CXX_FLAGS_DEBUG: ""
+      VCPKG_CXX_FLAGS_RELEASE: ""
+      VCPKG_C_FLAGS: ""
+      VCPKG_C_FLAGS_DEBUG: ""
+      VCPKG_C_FLAGS_RELEASE: ""
+      VCPKG_INSTALLED_DIR: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed"
+      VCPKG_LINKER_FLAGS: ""
+      VCPKG_LINKER_FLAGS_DEBUG: ""
+      VCPKG_LINKER_FLAGS_RELEASE: ""
+      VCPKG_PLATFORM_TOOLSET: "v143"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_SET_CHARSET_FLAG: "ON"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+    buildResult:
+      variable: "HAVE_LIBATOMIC"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-tvj6in'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_ee2c9
+        [1/2] C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DHAVE_LIBATOMIC  /nologo /DWIN32 /D_WINDOWS /utf-8 /GR /EHsc /MP   /D_DEBUG /MDd /Z7 /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_ee2c9.dir\\src.cxx.obj /FdCMakeFiles\\cmTC_ee2c9.dir\\ /FS -c "C:\\GELOT\\DEUXIEME ANNEE\\0.PROJET\\GithubPage\\test\\out\\build\\x64-debug\\vcpkg_installed\\vcpkg\\blds\\openal-soft\\x64-windows-rel\\CMakeFiles\\CMakeScratch\\TryCompile-tvj6in\\src.cxx"
+        [2/2] C:\\windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_ee2c9.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_ee2c9.dir\\src.cxx.obj  /out:cmTC_ee2c9.exe /implib:cmTC_ee2c9.lib /pdb:cmTC_ee2c9.pdb /version:0.0 /machine:x64  /nologo    /debug /INCREMENTAL /subsystem:console  atomic.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        FAILED: cmTC_ee2c9.exe 
+        C:\\windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_ee2c9.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_ee2c9.dir\\src.cxx.obj  /out:cmTC_ee2c9.exe /implib:cmTC_ee2c9.lib /pdb:cmTC_ee2c9.pdb /version:0.0 /machine:x64  /nologo    /debug /INCREMENTAL /subsystem:console  atomic.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        LINK Pass 1: command "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_ee2c9.dir\\src.cxx.obj /out:cmTC_ee2c9.exe /implib:cmTC_ee2c9.lib /pdb:cmTC_ee2c9.pdb /version:0.0 /machine:x64 /nologo /debug /INCREMENTAL /subsystem:console atomic.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_ee2c9.dir/intermediate.manifest CMakeFiles\\cmTC_ee2c9.dir/manifest.res" failed (exit code 1104) with the following output:
+        LINK : fatal error LNK1104: impossible d'ouvrir le fichier 'atomic.lib'\x0d
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/Internal/CheckCompilerFlag.cmake:18 (cmake_check_source_compiles)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CheckCXXCompilerFlag.cmake:34 (cmake_check_compiler_flag)"
+      - "CMakeLists.txt:239 (check_cxx_compiler_flag)"
+    checks:
+      - "Performing Test HAVE_PERMISSIVE_SWITCH"
+    directories:
+      source: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-iq1yuo"
+      binary: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-iq1yuo"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: " /nologo /DWIN32 /D_WINDOWS /utf-8 /GR /EHsc /MP "
+      CMAKE_MODULE_PATH: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/src/1.23.1-180897dbaa.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:dynamic,dynamic>:DLL>"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_CRT_LINKAGE: "dynamic"
+      VCPKG_CXX_FLAGS: ""
+      VCPKG_CXX_FLAGS_DEBUG: ""
+      VCPKG_CXX_FLAGS_RELEASE: ""
+      VCPKG_C_FLAGS: ""
+      VCPKG_C_FLAGS_DEBUG: ""
+      VCPKG_C_FLAGS_RELEASE: ""
+      VCPKG_INSTALLED_DIR: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed"
+      VCPKG_LINKER_FLAGS: ""
+      VCPKG_LINKER_FLAGS_DEBUG: ""
+      VCPKG_LINKER_FLAGS_RELEASE: ""
+      VCPKG_PLATFORM_TOOLSET: "v143"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_SET_CHARSET_FLAG: "ON"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+    buildResult:
+      variable: "HAVE_PERMISSIVE_SWITCH"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-iq1yuo'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_10747
+        [1/2] C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DHAVE_PERMISSIVE_SWITCH  /nologo /DWIN32 /D_WINDOWS /utf-8 /GR /EHsc /MP   /D_DEBUG /MDd /Z7 /Ob0 /Od /RTC1    /permissive- /showIncludes /FoCMakeFiles\\cmTC_10747.dir\\src.cxx.obj /FdCMakeFiles\\cmTC_10747.dir\\ /FS -c "C:\\GELOT\\DEUXIEME ANNEE\\0.PROJET\\GithubPage\\test\\out\\build\\x64-debug\\vcpkg_installed\\vcpkg\\blds\\openal-soft\\x64-windows-rel\\CMakeFiles\\CMakeScratch\\TryCompile-iq1yuo\\src.cxx"
+        [2/2] C:\\windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_10747.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_10747.dir\\src.cxx.obj  /out:cmTC_10747.exe /implib:cmTC_10747.lib /pdb:cmTC_10747.pdb /version:0.0 /machine:x64  /nologo    /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "CMakeLists.txt:387 (check_include_file)"
+    checks:
+      - "Looking for xmmintrin.h"
+    directories:
+      source: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-5ymebp"
+      binary: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-5ymebp"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /utf-8 /MP "
+      CMAKE_MODULE_PATH: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/src/1.23.1-180897dbaa.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:dynamic,dynamic>:DLL>"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_CRT_LINKAGE: "dynamic"
+      VCPKG_CXX_FLAGS: ""
+      VCPKG_CXX_FLAGS_DEBUG: ""
+      VCPKG_CXX_FLAGS_RELEASE: ""
+      VCPKG_C_FLAGS: ""
+      VCPKG_C_FLAGS_DEBUG: ""
+      VCPKG_C_FLAGS_RELEASE: ""
+      VCPKG_INSTALLED_DIR: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed"
+      VCPKG_LINKER_FLAGS: ""
+      VCPKG_LINKER_FLAGS_DEBUG: ""
+      VCPKG_LINKER_FLAGS_RELEASE: ""
+      VCPKG_PLATFORM_TOOLSET: "v143"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_SET_CHARSET_FLAG: "ON"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+    buildResult:
+      variable: "HAVE_XMMINTRIN_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-5ymebp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_9a54f
+        [1/2] C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /utf-8 /MP   /D_DEBUG /MDd /Z7 /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_9a54f.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_9a54f.dir\\ /FS -c "C:\\GELOT\\DEUXIEME ANNEE\\0.PROJET\\GithubPage\\test\\out\\build\\x64-debug\\vcpkg_installed\\vcpkg\\blds\\openal-soft\\x64-windows-rel\\CMakeFiles\\CMakeScratch\\TryCompile-5ymebp\\CheckIncludeFile.c"
+        [2/2] C:\\windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_9a54f.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_9a54f.dir\\CheckIncludeFile.c.obj  /out:cmTC_9a54f.exe /implib:cmTC_9a54f.lib /pdb:cmTC_9a54f.pdb /version:0.0 /machine:x64  /nologo    /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "CMakeLists.txt:388 (check_include_file)"
+    checks:
+      - "Looking for emmintrin.h"
+    directories:
+      source: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-78awjh"
+      binary: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-78awjh"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /utf-8 /MP "
+      CMAKE_MODULE_PATH: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/src/1.23.1-180897dbaa.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:dynamic,dynamic>:DLL>"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_CRT_LINKAGE: "dynamic"
+      VCPKG_CXX_FLAGS: ""
+      VCPKG_CXX_FLAGS_DEBUG: ""
+      VCPKG_CXX_FLAGS_RELEASE: ""
+      VCPKG_C_FLAGS: ""
+      VCPKG_C_FLAGS_DEBUG: ""
+      VCPKG_C_FLAGS_RELEASE: ""
+      VCPKG_INSTALLED_DIR: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed"
+      VCPKG_LINKER_FLAGS: ""
+      VCPKG_LINKER_FLAGS_DEBUG: ""
+      VCPKG_LINKER_FLAGS_RELEASE: ""
+      VCPKG_PLATFORM_TOOLSET: "v143"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_SET_CHARSET_FLAG: "ON"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+    buildResult:
+      variable: "HAVE_EMMINTRIN_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-78awjh'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_44030
+        [1/2] C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /utf-8 /MP   /D_DEBUG /MDd /Z7 /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_44030.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_44030.dir\\ /FS -c "C:\\GELOT\\DEUXIEME ANNEE\\0.PROJET\\GithubPage\\test\\out\\build\\x64-debug\\vcpkg_installed\\vcpkg\\blds\\openal-soft\\x64-windows-rel\\CMakeFiles\\CMakeScratch\\TryCompile-78awjh\\CheckIncludeFile.c"
+        [2/2] C:\\windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_44030.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_44030.dir\\CheckIncludeFile.c.obj  /out:cmTC_44030.exe /implib:cmTC_44030.lib /pdb:cmTC_44030.pdb /version:0.0 /machine:x64  /nologo    /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "CMakeLists.txt:389 (check_include_file)"
+    checks:
+      - "Looking for pmmintrin.h"
+    directories:
+      source: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-dva8am"
+      binary: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-dva8am"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /utf-8 /MP "
+      CMAKE_MODULE_PATH: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/src/1.23.1-180897dbaa.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:dynamic,dynamic>:DLL>"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_CRT_LINKAGE: "dynamic"
+      VCPKG_CXX_FLAGS: ""
+      VCPKG_CXX_FLAGS_DEBUG: ""
+      VCPKG_CXX_FLAGS_RELEASE: ""
+      VCPKG_C_FLAGS: ""
+      VCPKG_C_FLAGS_DEBUG: ""
+      VCPKG_C_FLAGS_RELEASE: ""
+      VCPKG_INSTALLED_DIR: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed"
+      VCPKG_LINKER_FLAGS: ""
+      VCPKG_LINKER_FLAGS_DEBUG: ""
+      VCPKG_LINKER_FLAGS_RELEASE: ""
+      VCPKG_PLATFORM_TOOLSET: "v143"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_SET_CHARSET_FLAG: "ON"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+    buildResult:
+      variable: "HAVE_PMMINTRIN_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-dva8am'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_736ff
+        [1/2] C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /utf-8 /MP   /D_DEBUG /MDd /Z7 /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_736ff.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_736ff.dir\\ /FS -c "C:\\GELOT\\DEUXIEME ANNEE\\0.PROJET\\GithubPage\\test\\out\\build\\x64-debug\\vcpkg_installed\\vcpkg\\blds\\openal-soft\\x64-windows-rel\\CMakeFiles\\CMakeScratch\\TryCompile-dva8am\\CheckIncludeFile.c"
+        [2/2] C:\\windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_736ff.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_736ff.dir\\CheckIncludeFile.c.obj  /out:cmTC_736ff.exe /implib:cmTC_736ff.lib /pdb:cmTC_736ff.pdb /version:0.0 /machine:x64  /nologo    /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "CMakeLists.txt:390 (check_include_file)"
+    checks:
+      - "Looking for smmintrin.h"
+    directories:
+      source: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-ed7ieq"
+      binary: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-ed7ieq"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /utf-8 /MP "
+      CMAKE_MODULE_PATH: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/src/1.23.1-180897dbaa.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:dynamic,dynamic>:DLL>"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_CRT_LINKAGE: "dynamic"
+      VCPKG_CXX_FLAGS: ""
+      VCPKG_CXX_FLAGS_DEBUG: ""
+      VCPKG_CXX_FLAGS_RELEASE: ""
+      VCPKG_C_FLAGS: ""
+      VCPKG_C_FLAGS_DEBUG: ""
+      VCPKG_C_FLAGS_RELEASE: ""
+      VCPKG_INSTALLED_DIR: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed"
+      VCPKG_LINKER_FLAGS: ""
+      VCPKG_LINKER_FLAGS_DEBUG: ""
+      VCPKG_LINKER_FLAGS_RELEASE: ""
+      VCPKG_PLATFORM_TOOLSET: "v143"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_SET_CHARSET_FLAG: "ON"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+    buildResult:
+      variable: "HAVE_SMMINTRIN_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-ed7ieq'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_d2d59
+        [1/2] C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /utf-8 /MP   /D_DEBUG /MDd /Z7 /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_d2d59.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_d2d59.dir\\ /FS -c "C:\\GELOT\\DEUXIEME ANNEE\\0.PROJET\\GithubPage\\test\\out\\build\\x64-debug\\vcpkg_installed\\vcpkg\\blds\\openal-soft\\x64-windows-rel\\CMakeFiles\\CMakeScratch\\TryCompile-ed7ieq\\CheckIncludeFile.c"
+        [2/2] C:\\windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_d2d59.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_d2d59.dir\\CheckIncludeFile.c.obj  /out:cmTC_d2d59.exe /implib:cmTC_d2d59.lib /pdb:cmTC_d2d59.pdb /version:0.0 /machine:x64  /nologo    /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "CMakeLists.txt:391 (check_include_file)"
+    checks:
+      - "Looking for arm_neon.h"
+    directories:
+      source: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-yoxb7t"
+      binary: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-yoxb7t"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /utf-8 /MP "
+      CMAKE_MODULE_PATH: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/src/1.23.1-180897dbaa.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:dynamic,dynamic>:DLL>"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_CRT_LINKAGE: "dynamic"
+      VCPKG_CXX_FLAGS: ""
+      VCPKG_CXX_FLAGS_DEBUG: ""
+      VCPKG_CXX_FLAGS_RELEASE: ""
+      VCPKG_C_FLAGS: ""
+      VCPKG_C_FLAGS_DEBUG: ""
+      VCPKG_C_FLAGS_RELEASE: ""
+      VCPKG_INSTALLED_DIR: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed"
+      VCPKG_LINKER_FLAGS: ""
+      VCPKG_LINKER_FLAGS_DEBUG: ""
+      VCPKG_LINKER_FLAGS_RELEASE: ""
+      VCPKG_PLATFORM_TOOLSET: "v143"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_SET_CHARSET_FLAG: "ON"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+    buildResult:
+      variable: "HAVE_ARM_NEON_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-yoxb7t'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_bac75
+        [1/2] C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /utf-8 /MP   /D_DEBUG /MDd /Z7 /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_bac75.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_bac75.dir\\ /FS -c "C:\\GELOT\\DEUXIEME ANNEE\\0.PROJET\\GithubPage\\test\\out\\build\\x64-debug\\vcpkg_installed\\vcpkg\\blds\\openal-soft\\x64-windows-rel\\CMakeFiles\\CMakeScratch\\TryCompile-yoxb7t\\CheckIncludeFile.c"
+        FAILED: CMakeFiles/cmTC_bac75.dir/CheckIncludeFile.c.obj 
+        C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /utf-8 /MP   /D_DEBUG /MDd /Z7 /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_bac75.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_bac75.dir\\ /FS -c "C:\\GELOT\\DEUXIEME ANNEE\\0.PROJET\\GithubPage\\test\\out\\build\\x64-debug\\vcpkg_installed\\vcpkg\\blds\\openal-soft\\x64-windows-rel\\CMakeFiles\\CMakeScratch\\TryCompile-yoxb7t\\CheckIncludeFile.c"
+        C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\arm_neon.h(21): fatal error C1189: #error:  This header is specific to ARM targets
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CheckCSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "CMakeLists.txt:489 (check_c_source_compiles)"
+    checks:
+      - "Performing Test HAVE_SSE_INTRINSICS"
+    directories:
+      source: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-zrq4e5"
+      binary: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-zrq4e5"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /utf-8 /MP "
+      CMAKE_MODULE_PATH: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/src/1.23.1-180897dbaa.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:dynamic,dynamic>:DLL>"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_CRT_LINKAGE: "dynamic"
+      VCPKG_CXX_FLAGS: ""
+      VCPKG_CXX_FLAGS_DEBUG: ""
+      VCPKG_CXX_FLAGS_RELEASE: ""
+      VCPKG_C_FLAGS: ""
+      VCPKG_C_FLAGS_DEBUG: ""
+      VCPKG_C_FLAGS_RELEASE: ""
+      VCPKG_INSTALLED_DIR: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed"
+      VCPKG_LINKER_FLAGS: ""
+      VCPKG_LINKER_FLAGS_DEBUG: ""
+      VCPKG_LINKER_FLAGS_RELEASE: ""
+      VCPKG_PLATFORM_TOOLSET: "v143"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_SET_CHARSET_FLAG: "ON"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+    buildResult:
+      variable: "HAVE_SSE_INTRINSICS"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-zrq4e5'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_56e93
+        [1/2] C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_SSE_INTRINSICS  /nologo /DWIN32 /D_WINDOWS /utf-8 /MP   /D_DEBUG /MDd /Z7 /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_56e93.dir\\src.c.obj /FdCMakeFiles\\cmTC_56e93.dir\\ /FS -c "C:\\GELOT\\DEUXIEME ANNEE\\0.PROJET\\GithubPage\\test\\out\\build\\x64-debug\\vcpkg_installed\\vcpkg\\blds\\openal-soft\\x64-windows-rel\\CMakeFiles\\CMakeScratch\\TryCompile-zrq4e5\\src.c"
+        [2/2] C:\\windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_56e93.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_56e93.dir\\src.c.obj  /out:cmTC_56e93.exe /implib:cmTC_56e93.lib /pdb:cmTC_56e93.pdb /version:0.0 /machine:x64  /nologo    /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "CMakeLists.txt:496 (check_include_file)"
+    checks:
+      - "Looking for malloc.h"
+    directories:
+      source: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-htfz7i"
+      binary: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-htfz7i"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /utf-8 /MP "
+      CMAKE_MODULE_PATH: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/src/1.23.1-180897dbaa.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:dynamic,dynamic>:DLL>"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_CRT_LINKAGE: "dynamic"
+      VCPKG_CXX_FLAGS: ""
+      VCPKG_CXX_FLAGS_DEBUG: ""
+      VCPKG_CXX_FLAGS_RELEASE: ""
+      VCPKG_C_FLAGS: ""
+      VCPKG_C_FLAGS_DEBUG: ""
+      VCPKG_C_FLAGS_RELEASE: ""
+      VCPKG_INSTALLED_DIR: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed"
+      VCPKG_LINKER_FLAGS: ""
+      VCPKG_LINKER_FLAGS_DEBUG: ""
+      VCPKG_LINKER_FLAGS_RELEASE: ""
+      VCPKG_PLATFORM_TOOLSET: "v143"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_SET_CHARSET_FLAG: "ON"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+    buildResult:
+      variable: "HAVE_MALLOC_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-htfz7i'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_1ac2a
+        [1/2] C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /utf-8 /MP   /D_DEBUG /MDd /Z7 /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_1ac2a.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_1ac2a.dir\\ /FS -c "C:\\GELOT\\DEUXIEME ANNEE\\0.PROJET\\GithubPage\\test\\out\\build\\x64-debug\\vcpkg_installed\\vcpkg\\blds\\openal-soft\\x64-windows-rel\\CMakeFiles\\CMakeScratch\\TryCompile-htfz7i\\CheckIncludeFile.c"
+        [2/2] C:\\windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_1ac2a.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_1ac2a.dir\\CheckIncludeFile.c.obj  /out:cmTC_1ac2a.exe /implib:cmTC_1ac2a.lib /pdb:cmTC_1ac2a.pdb /version:0.0 /machine:x64  /nologo    /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "CMakeLists.txt:497 (check_include_file)"
+    checks:
+      - "Looking for cpuid.h"
+    directories:
+      source: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-bhqnrv"
+      binary: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-bhqnrv"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /utf-8 /MP "
+      CMAKE_MODULE_PATH: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/src/1.23.1-180897dbaa.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:dynamic,dynamic>:DLL>"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_CRT_LINKAGE: "dynamic"
+      VCPKG_CXX_FLAGS: ""
+      VCPKG_CXX_FLAGS_DEBUG: ""
+      VCPKG_CXX_FLAGS_RELEASE: ""
+      VCPKG_C_FLAGS: ""
+      VCPKG_C_FLAGS_DEBUG: ""
+      VCPKG_C_FLAGS_RELEASE: ""
+      VCPKG_INSTALLED_DIR: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed"
+      VCPKG_LINKER_FLAGS: ""
+      VCPKG_LINKER_FLAGS_DEBUG: ""
+      VCPKG_LINKER_FLAGS_RELEASE: ""
+      VCPKG_PLATFORM_TOOLSET: "v143"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_SET_CHARSET_FLAG: "ON"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+    buildResult:
+      variable: "HAVE_CPUID_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-bhqnrv'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_14f96
+        [1/2] C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /utf-8 /MP   /D_DEBUG /MDd /Z7 /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_14f96.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_14f96.dir\\ /FS -c "C:\\GELOT\\DEUXIEME ANNEE\\0.PROJET\\GithubPage\\test\\out\\build\\x64-debug\\vcpkg_installed\\vcpkg\\blds\\openal-soft\\x64-windows-rel\\CMakeFiles\\CMakeScratch\\TryCompile-bhqnrv\\CheckIncludeFile.c"
+        FAILED: CMakeFiles/cmTC_14f96.dir/CheckIncludeFile.c.obj 
+        C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /utf-8 /MP   /D_DEBUG /MDd /Z7 /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_14f96.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_14f96.dir\\ /FS -c "C:\\GELOT\\DEUXIEME ANNEE\\0.PROJET\\GithubPage\\test\\out\\build\\x64-debug\\vcpkg_installed\\vcpkg\\blds\\openal-soft\\x64-windows-rel\\CMakeFiles\\CMakeScratch\\TryCompile-bhqnrv\\CheckIncludeFile.c"
+        C:\\GELOT\\DEUXIEME ANNEE\\0.PROJET\\GithubPage\\test\\out\\build\\x64-debug\\vcpkg_installed\\vcpkg\\blds\\openal-soft\\x64-windows-rel\\CMakeFiles\\CMakeScratch\\TryCompile-bhqnrv\\CheckIncludeFile.c(1): fatal error C1083: Impossible d'ouvrir le fichier include : 'cpuid.h' : No such file or directory
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "CMakeLists.txt:498 (check_include_file)"
+    checks:
+      - "Looking for intrin.h"
+    directories:
+      source: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-er53lc"
+      binary: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-er53lc"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /utf-8 /MP "
+      CMAKE_MODULE_PATH: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/src/1.23.1-180897dbaa.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:dynamic,dynamic>:DLL>"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_CRT_LINKAGE: "dynamic"
+      VCPKG_CXX_FLAGS: ""
+      VCPKG_CXX_FLAGS_DEBUG: ""
+      VCPKG_CXX_FLAGS_RELEASE: ""
+      VCPKG_C_FLAGS: ""
+      VCPKG_C_FLAGS_DEBUG: ""
+      VCPKG_C_FLAGS_RELEASE: ""
+      VCPKG_INSTALLED_DIR: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed"
+      VCPKG_LINKER_FLAGS: ""
+      VCPKG_LINKER_FLAGS_DEBUG: ""
+      VCPKG_LINKER_FLAGS_RELEASE: ""
+      VCPKG_PLATFORM_TOOLSET: "v143"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_SET_CHARSET_FLAG: "ON"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+    buildResult:
+      variable: "HAVE_INTRIN_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-er53lc'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_eee7f
+        [1/2] C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /utf-8 /MP   /D_DEBUG /MDd /Z7 /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_eee7f.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_eee7f.dir\\ /FS -c "C:\\GELOT\\DEUXIEME ANNEE\\0.PROJET\\GithubPage\\test\\out\\build\\x64-debug\\vcpkg_installed\\vcpkg\\blds\\openal-soft\\x64-windows-rel\\CMakeFiles\\CMakeScratch\\TryCompile-er53lc\\CheckIncludeFile.c"
+        [2/2] C:\\windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_eee7f.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_eee7f.dir\\CheckIncludeFile.c.obj  /out:cmTC_eee7f.exe /implib:cmTC_eee7f.lib /pdb:cmTC_eee7f.pdb /version:0.0 /machine:x64  /nologo    /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "CMakeLists.txt:499 (check_include_file)"
+    checks:
+      - "Looking for guiddef.h"
+    directories:
+      source: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-p569nw"
+      binary: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-p569nw"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /utf-8 /MP "
+      CMAKE_MODULE_PATH: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/src/1.23.1-180897dbaa.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:dynamic,dynamic>:DLL>"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_CRT_LINKAGE: "dynamic"
+      VCPKG_CXX_FLAGS: ""
+      VCPKG_CXX_FLAGS_DEBUG: ""
+      VCPKG_CXX_FLAGS_RELEASE: ""
+      VCPKG_C_FLAGS: ""
+      VCPKG_C_FLAGS_DEBUG: ""
+      VCPKG_C_FLAGS_RELEASE: ""
+      VCPKG_INSTALLED_DIR: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed"
+      VCPKG_LINKER_FLAGS: ""
+      VCPKG_LINKER_FLAGS_DEBUG: ""
+      VCPKG_LINKER_FLAGS_RELEASE: ""
+      VCPKG_PLATFORM_TOOLSET: "v143"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_SET_CHARSET_FLAG: "ON"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+    buildResult:
+      variable: "HAVE_GUIDDEF_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-p569nw'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_c6d88
+        [1/2] C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /utf-8 /MP   /D_DEBUG /MDd /Z7 /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_c6d88.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_c6d88.dir\\ /FS -c "C:\\GELOT\\DEUXIEME ANNEE\\0.PROJET\\GithubPage\\test\\out\\build\\x64-debug\\vcpkg_installed\\vcpkg\\blds\\openal-soft\\x64-windows-rel\\CMakeFiles\\CMakeScratch\\TryCompile-p569nw\\CheckIncludeFile.c"
+        [2/2] C:\\windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_c6d88.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_c6d88.dir\\CheckIncludeFile.c.obj  /out:cmTC_c6d88.exe /implib:cmTC_c6d88.lib /pdb:cmTC_c6d88.pdb /version:0.0 /machine:x64  /nologo    /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CheckLibraryExists.cmake:69 (try_compile)"
+      - "CMakeLists.txt:506 (check_library_exists)"
+    checks:
+      - "Looking for pow in m"
+    directories:
+      source: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-c0okup"
+      binary: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-c0okup"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /utf-8 /MP "
+      CMAKE_MODULE_PATH: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/src/1.23.1-180897dbaa.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:dynamic,dynamic>:DLL>"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_CRT_LINKAGE: "dynamic"
+      VCPKG_CXX_FLAGS: ""
+      VCPKG_CXX_FLAGS_DEBUG: ""
+      VCPKG_CXX_FLAGS_RELEASE: ""
+      VCPKG_C_FLAGS: ""
+      VCPKG_C_FLAGS_DEBUG: ""
+      VCPKG_C_FLAGS_RELEASE: ""
+      VCPKG_INSTALLED_DIR: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed"
+      VCPKG_LINKER_FLAGS: ""
+      VCPKG_LINKER_FLAGS_DEBUG: ""
+      VCPKG_LINKER_FLAGS_RELEASE: ""
+      VCPKG_PLATFORM_TOOLSET: "v143"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_SET_CHARSET_FLAG: "ON"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+    buildResult:
+      variable: "HAVE_LIBM"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-c0okup'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_0cf0a
+        [1/2] C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /utf-8 /MP  -DCHECK_FUNCTION_EXISTS=pow /D_DEBUG /MDd /Z7 /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_0cf0a.dir\\CheckFunctionExists.c.obj /FdCMakeFiles\\cmTC_0cf0a.dir\\ /FS -c "C:\\GELOT\\DEUXIEME ANNEE\\0.PROJET\\GithubPage\\test\\out\\build\\x64-debug\\vcpkg_installed\\vcpkg\\blds\\openal-soft\\x64-windows-rel\\CMakeFiles\\CMakeScratch\\TryCompile-c0okup\\CheckFunctionExists.c"
+        [2/2] C:\\windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_0cf0a.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_0cf0a.dir\\CheckFunctionExists.c.obj  /out:cmTC_0cf0a.exe /implib:cmTC_0cf0a.lib /pdb:cmTC_0cf0a.pdb /version:0.0 /machine:x64  /nologo    /debug /INCREMENTAL /subsystem:console  m.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        FAILED: cmTC_0cf0a.exe 
+        C:\\windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_0cf0a.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_0cf0a.dir\\CheckFunctionExists.c.obj  /out:cmTC_0cf0a.exe /implib:cmTC_0cf0a.lib /pdb:cmTC_0cf0a.pdb /version:0.0 /machine:x64  /nologo    /debug /INCREMENTAL /subsystem:console  m.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        LINK Pass 1: command "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_0cf0a.dir\\CheckFunctionExists.c.obj /out:cmTC_0cf0a.exe /implib:cmTC_0cf0a.lib /pdb:cmTC_0cf0a.pdb /version:0.0 /machine:x64 /nologo /debug /INCREMENTAL /subsystem:console m.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_0cf0a.dir/intermediate.manifest CMakeFiles\\cmTC_0cf0a.dir/manifest.res" failed (exit code 1104) with the following output:
+        LINK : fatal error LNK1104: impossible d'ouvrir le fichier 'm.lib'\x0d
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CheckLibraryExists.cmake:69 (try_compile)"
+      - "CMakeLists.txt:515 (check_library_exists)"
+    checks:
+      - "Looking for clock_gettime in rt"
+    directories:
+      source: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-mw9uvj"
+      binary: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-mw9uvj"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /utf-8 /MP "
+      CMAKE_MODULE_PATH: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/src/1.23.1-180897dbaa.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:dynamic,dynamic>:DLL>"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_CRT_LINKAGE: "dynamic"
+      VCPKG_CXX_FLAGS: ""
+      VCPKG_CXX_FLAGS_DEBUG: ""
+      VCPKG_CXX_FLAGS_RELEASE: ""
+      VCPKG_C_FLAGS: ""
+      VCPKG_C_FLAGS_DEBUG: ""
+      VCPKG_C_FLAGS_RELEASE: ""
+      VCPKG_INSTALLED_DIR: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed"
+      VCPKG_LINKER_FLAGS: ""
+      VCPKG_LINKER_FLAGS_DEBUG: ""
+      VCPKG_LINKER_FLAGS_RELEASE: ""
+      VCPKG_PLATFORM_TOOLSET: "v143"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_SET_CHARSET_FLAG: "ON"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+    buildResult:
+      variable: "HAVE_LIBRT"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-mw9uvj'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_ab959
+        [1/2] C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /utf-8 /MP  -DCHECK_FUNCTION_EXISTS=clock_gettime /D_DEBUG /MDd /Z7 /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_ab959.dir\\CheckFunctionExists.c.obj /FdCMakeFiles\\cmTC_ab959.dir\\ /FS -c "C:\\GELOT\\DEUXIEME ANNEE\\0.PROJET\\GithubPage\\test\\out\\build\\x64-debug\\vcpkg_installed\\vcpkg\\blds\\openal-soft\\x64-windows-rel\\CMakeFiles\\CMakeScratch\\TryCompile-mw9uvj\\CheckFunctionExists.c"
+        [2/2] C:\\windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_ab959.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_ab959.dir\\CheckFunctionExists.c.obj  /out:cmTC_ab959.exe /implib:cmTC_ab959.lib /pdb:cmTC_ab959.pdb /version:0.0 /machine:x64  /nologo    /debug /INCREMENTAL /subsystem:console  rt.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        FAILED: cmTC_ab959.exe 
+        C:\\windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_ab959.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_ab959.dir\\CheckFunctionExists.c.obj  /out:cmTC_ab959.exe /implib:cmTC_ab959.lib /pdb:cmTC_ab959.pdb /version:0.0 /machine:x64  /nologo    /debug /INCREMENTAL /subsystem:console  rt.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        LINK Pass 1: command "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_ab959.dir\\CheckFunctionExists.c.obj /out:cmTC_ab959.exe /implib:cmTC_ab959.lib /pdb:cmTC_ab959.pdb /version:0.0 /machine:x64 /nologo /debug /INCREMENTAL /subsystem:console rt.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_ab959.dir/intermediate.manifest CMakeFiles\\cmTC_ab959.dir/manifest.res" failed (exit code 1104) with the following output:
+        LINK : fatal error LNK1104: impossible d'ouvrir le fichier 'rt.lib'\x0d
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "CMakeLists.txt:522 (check_include_file)"
+    checks:
+      - "Looking for dlfcn.h"
+    directories:
+      source: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-fcg6fz"
+      binary: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-fcg6fz"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /utf-8 /MP "
+      CMAKE_MODULE_PATH: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/src/1.23.1-180897dbaa.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:dynamic,dynamic>:DLL>"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_CRT_LINKAGE: "dynamic"
+      VCPKG_CXX_FLAGS: ""
+      VCPKG_CXX_FLAGS_DEBUG: ""
+      VCPKG_CXX_FLAGS_RELEASE: ""
+      VCPKG_C_FLAGS: ""
+      VCPKG_C_FLAGS_DEBUG: ""
+      VCPKG_C_FLAGS_RELEASE: ""
+      VCPKG_INSTALLED_DIR: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed"
+      VCPKG_LINKER_FLAGS: ""
+      VCPKG_LINKER_FLAGS_DEBUG: ""
+      VCPKG_LINKER_FLAGS_RELEASE: ""
+      VCPKG_PLATFORM_TOOLSET: "v143"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_SET_CHARSET_FLAG: "ON"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+    buildResult:
+      variable: "HAVE_DLFCN_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-fcg6fz'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_4dbf9
+        [1/2] C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /utf-8 /MP   /D_DEBUG /MDd /Z7 /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_4dbf9.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_4dbf9.dir\\ /FS -c "C:\\GELOT\\DEUXIEME ANNEE\\0.PROJET\\GithubPage\\test\\out\\build\\x64-debug\\vcpkg_installed\\vcpkg\\blds\\openal-soft\\x64-windows-rel\\CMakeFiles\\CMakeScratch\\TryCompile-fcg6fz\\CheckIncludeFile.c"
+        FAILED: CMakeFiles/cmTC_4dbf9.dir/CheckIncludeFile.c.obj 
+        C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /utf-8 /MP   /D_DEBUG /MDd /Z7 /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_4dbf9.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_4dbf9.dir\\ /FS -c "C:\\GELOT\\DEUXIEME ANNEE\\0.PROJET\\GithubPage\\test\\out\\build\\x64-debug\\vcpkg_installed\\vcpkg\\blds\\openal-soft\\x64-windows-rel\\CMakeFiles\\CMakeScratch\\TryCompile-fcg6fz\\CheckIncludeFile.c"
+        C:\\GELOT\\DEUXIEME ANNEE\\0.PROJET\\GithubPage\\test\\out\\build\\x64-debug\\vcpkg_installed\\vcpkg\\blds\\openal-soft\\x64-windows-rel\\CMakeFiles\\CMakeScratch\\TryCompile-fcg6fz\\CheckIncludeFile.c(1): fatal error C1083: Impossible d'ouvrir le fichier include : 'dlfcn.h' : No such file or directory
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CheckLibraryExists.cmake:69 (try_compile)"
+      - "CMakeLists.txt:523 (check_library_exists)"
+    checks:
+      - "Looking for dlopen in dl"
+    directories:
+      source: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-94h9r6"
+      binary: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-94h9r6"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /utf-8 /MP "
+      CMAKE_MODULE_PATH: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/src/1.23.1-180897dbaa.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:dynamic,dynamic>:DLL>"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_CRT_LINKAGE: "dynamic"
+      VCPKG_CXX_FLAGS: ""
+      VCPKG_CXX_FLAGS_DEBUG: ""
+      VCPKG_CXX_FLAGS_RELEASE: ""
+      VCPKG_C_FLAGS: ""
+      VCPKG_C_FLAGS_DEBUG: ""
+      VCPKG_C_FLAGS_RELEASE: ""
+      VCPKG_INSTALLED_DIR: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed"
+      VCPKG_LINKER_FLAGS: ""
+      VCPKG_LINKER_FLAGS_DEBUG: ""
+      VCPKG_LINKER_FLAGS_RELEASE: ""
+      VCPKG_PLATFORM_TOOLSET: "v143"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_SET_CHARSET_FLAG: "ON"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+    buildResult:
+      variable: "HAVE_LIBDL"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-94h9r6'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_4823c
+        [1/2] C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /utf-8 /MP  -DCHECK_FUNCTION_EXISTS=dlopen /D_DEBUG /MDd /Z7 /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_4823c.dir\\CheckFunctionExists.c.obj /FdCMakeFiles\\cmTC_4823c.dir\\ /FS -c "C:\\GELOT\\DEUXIEME ANNEE\\0.PROJET\\GithubPage\\test\\out\\build\\x64-debug\\vcpkg_installed\\vcpkg\\blds\\openal-soft\\x64-windows-rel\\CMakeFiles\\CMakeScratch\\TryCompile-94h9r6\\CheckFunctionExists.c"
+        [2/2] C:\\windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_4823c.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_4823c.dir\\CheckFunctionExists.c.obj  /out:cmTC_4823c.exe /implib:cmTC_4823c.lib /pdb:cmTC_4823c.pdb /version:0.0 /machine:x64  /nologo    /debug /INCREMENTAL /subsystem:console  dl.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        FAILED: cmTC_4823c.exe 
+        C:\\windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_4823c.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_4823c.dir\\CheckFunctionExists.c.obj  /out:cmTC_4823c.exe /implib:cmTC_4823c.lib /pdb:cmTC_4823c.pdb /version:0.0 /machine:x64  /nologo    /debug /INCREMENTAL /subsystem:console  dl.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        LINK Pass 1: command "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_4823c.dir\\CheckFunctionExists.c.obj /out:cmTC_4823c.exe /implib:cmTC_4823c.lib /pdb:cmTC_4823c.pdb /version:0.0 /machine:x64 /nologo /debug /INCREMENTAL /subsystem:console dl.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_4823c.dir/intermediate.manifest CMakeFiles\\cmTC_4823c.dir/manifest.res" failed (exit code 1104) with the following output:
+        LINK : fatal error LNK1104: impossible d'ouvrir le fichier 'dl.lib'\x0d
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CheckCSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "CMakeLists.txt:540 (check_c_source_compiles)"
+    checks:
+      - "Performing Test HAVE_CPUID_INTRINSIC"
+    directories:
+      source: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-eq1dut"
+      binary: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-eq1dut"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /utf-8 /MP "
+      CMAKE_MODULE_PATH: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/src/1.23.1-180897dbaa.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:dynamic,dynamic>:DLL>"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_CRT_LINKAGE: "dynamic"
+      VCPKG_CXX_FLAGS: ""
+      VCPKG_CXX_FLAGS_DEBUG: ""
+      VCPKG_CXX_FLAGS_RELEASE: ""
+      VCPKG_C_FLAGS: ""
+      VCPKG_C_FLAGS_DEBUG: ""
+      VCPKG_C_FLAGS_RELEASE: ""
+      VCPKG_INSTALLED_DIR: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed"
+      VCPKG_LINKER_FLAGS: ""
+      VCPKG_LINKER_FLAGS_DEBUG: ""
+      VCPKG_LINKER_FLAGS_RELEASE: ""
+      VCPKG_PLATFORM_TOOLSET: "v143"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_SET_CHARSET_FLAG: "ON"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+    buildResult:
+      variable: "HAVE_CPUID_INTRINSIC"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-eq1dut'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_c9f2d
+        [1/2] C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_CPUID_INTRINSIC  /nologo /DWIN32 /D_WINDOWS /utf-8 /MP   /D_DEBUG /MDd /Z7 /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_c9f2d.dir\\src.c.obj /FdCMakeFiles\\cmTC_c9f2d.dir\\ /FS -c "C:\\GELOT\\DEUXIEME ANNEE\\0.PROJET\\GithubPage\\test\\out\\build\\x64-debug\\vcpkg_installed\\vcpkg\\blds\\openal-soft\\x64-windows-rel\\CMakeFiles\\CMakeScratch\\TryCompile-eq1dut\\src.c"
+        [2/2] C:\\windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_c9f2d.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_c9f2d.dir\\src.c.obj  /out:cmTC_c9f2d.exe /implib:cmTC_c9f2d.lib /pdb:cmTC_c9f2d.pdb /version:0.0 /machine:x64  /nologo    /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CheckSymbolExists.cmake:140 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CheckSymbolExists.cmake:66 (__CHECK_SYMBOL_EXISTS_IMPL)"
+      - "CMakeLists.txt:549 (check_symbol_exists)"
+    checks:
+      - "Looking for posix_memalign"
+    directories:
+      source: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-22roma"
+      binary: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-22roma"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /utf-8 /MP "
+      CMAKE_MODULE_PATH: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/src/1.23.1-180897dbaa.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:dynamic,dynamic>:DLL>"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_CRT_LINKAGE: "dynamic"
+      VCPKG_CXX_FLAGS: ""
+      VCPKG_CXX_FLAGS_DEBUG: ""
+      VCPKG_CXX_FLAGS_RELEASE: ""
+      VCPKG_C_FLAGS: ""
+      VCPKG_C_FLAGS_DEBUG: ""
+      VCPKG_C_FLAGS_RELEASE: ""
+      VCPKG_INSTALLED_DIR: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed"
+      VCPKG_LINKER_FLAGS: ""
+      VCPKG_LINKER_FLAGS_DEBUG: ""
+      VCPKG_LINKER_FLAGS_RELEASE: ""
+      VCPKG_PLATFORM_TOOLSET: "v143"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_SET_CHARSET_FLAG: "ON"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+    buildResult:
+      variable: "HAVE_POSIX_MEMALIGN"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-22roma'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_24d47
+        [1/2] C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /utf-8 /MP   /D_DEBUG /MDd /Z7 /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_24d47.dir\\CheckSymbolExists.c.obj /FdCMakeFiles\\cmTC_24d47.dir\\ /FS -c "C:\\GELOT\\DEUXIEME ANNEE\\0.PROJET\\GithubPage\\test\\out\\build\\x64-debug\\vcpkg_installed\\vcpkg\\blds\\openal-soft\\x64-windows-rel\\CMakeFiles\\CMakeScratch\\TryCompile-22roma\\CheckSymbolExists.c"
+        FAILED: CMakeFiles/cmTC_24d47.dir/CheckSymbolExists.c.obj 
+        C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /utf-8 /MP   /D_DEBUG /MDd /Z7 /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_24d47.dir\\CheckSymbolExists.c.obj /FdCMakeFiles\\cmTC_24d47.dir\\ /FS -c "C:\\GELOT\\DEUXIEME ANNEE\\0.PROJET\\GithubPage\\test\\out\\build\\x64-debug\\vcpkg_installed\\vcpkg\\blds\\openal-soft\\x64-windows-rel\\CMakeFiles\\CMakeScratch\\TryCompile-22roma\\CheckSymbolExists.c"
+        C:\\GELOT\\DEUXIEME ANNEE\\0.PROJET\\GithubPage\\test\\out\\build\\x64-debug\\vcpkg_installed\\vcpkg\\blds\\openal-soft\\x64-windows-rel\\CMakeFiles\\CMakeScratch\\TryCompile-22roma\\CheckSymbolExists.c(8): error C2065: 'posix_memalign' : identificateur non déclaré
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CheckSymbolExists.cmake:140 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CheckSymbolExists.cmake:66 (__CHECK_SYMBOL_EXISTS_IMPL)"
+      - "CMakeLists.txt:550 (check_symbol_exists)"
+    checks:
+      - "Looking for _aligned_malloc"
+    directories:
+      source: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-wd8c6z"
+      binary: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-wd8c6z"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /utf-8 /MP "
+      CMAKE_MODULE_PATH: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/src/1.23.1-180897dbaa.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:dynamic,dynamic>:DLL>"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_CRT_LINKAGE: "dynamic"
+      VCPKG_CXX_FLAGS: ""
+      VCPKG_CXX_FLAGS_DEBUG: ""
+      VCPKG_CXX_FLAGS_RELEASE: ""
+      VCPKG_C_FLAGS: ""
+      VCPKG_C_FLAGS_DEBUG: ""
+      VCPKG_C_FLAGS_RELEASE: ""
+      VCPKG_INSTALLED_DIR: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed"
+      VCPKG_LINKER_FLAGS: ""
+      VCPKG_LINKER_FLAGS_DEBUG: ""
+      VCPKG_LINKER_FLAGS_RELEASE: ""
+      VCPKG_PLATFORM_TOOLSET: "v143"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_SET_CHARSET_FLAG: "ON"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+    buildResult:
+      variable: "HAVE__ALIGNED_MALLOC"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-wd8c6z'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_96238
+        [1/2] C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /utf-8 /MP   /D_DEBUG /MDd /Z7 /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_96238.dir\\CheckSymbolExists.c.obj /FdCMakeFiles\\cmTC_96238.dir\\ /FS -c "C:\\GELOT\\DEUXIEME ANNEE\\0.PROJET\\GithubPage\\test\\out\\build\\x64-debug\\vcpkg_installed\\vcpkg\\blds\\openal-soft\\x64-windows-rel\\CMakeFiles\\CMakeScratch\\TryCompile-wd8c6z\\CheckSymbolExists.c"
+        [2/2] C:\\windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_96238.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_96238.dir\\CheckSymbolExists.c.obj  /out:cmTC_96238.exe /implib:cmTC_96238.lib /pdb:cmTC_96238.pdb /version:0.0 /machine:x64  /nologo    /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CheckSymbolExists.cmake:140 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CheckSymbolExists.cmake:66 (__CHECK_SYMBOL_EXISTS_IMPL)"
+      - "CMakeLists.txt:551 (check_symbol_exists)"
+    checks:
+      - "Looking for proc_pidpath"
+    directories:
+      source: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-akiyl8"
+      binary: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-akiyl8"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /utf-8 /MP "
+      CMAKE_MODULE_PATH: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/src/1.23.1-180897dbaa.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:dynamic,dynamic>:DLL>"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_CRT_LINKAGE: "dynamic"
+      VCPKG_CXX_FLAGS: ""
+      VCPKG_CXX_FLAGS_DEBUG: ""
+      VCPKG_CXX_FLAGS_RELEASE: ""
+      VCPKG_C_FLAGS: ""
+      VCPKG_C_FLAGS_DEBUG: ""
+      VCPKG_C_FLAGS_RELEASE: ""
+      VCPKG_INSTALLED_DIR: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed"
+      VCPKG_LINKER_FLAGS: ""
+      VCPKG_LINKER_FLAGS_DEBUG: ""
+      VCPKG_LINKER_FLAGS_RELEASE: ""
+      VCPKG_PLATFORM_TOOLSET: "v143"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_SET_CHARSET_FLAG: "ON"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+    buildResult:
+      variable: "HAVE_PROC_PIDPATH"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-akiyl8'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_23d1a
+        [1/2] C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /utf-8 /MP   /D_DEBUG /MDd /Z7 /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_23d1a.dir\\CheckSymbolExists.c.obj /FdCMakeFiles\\cmTC_23d1a.dir\\ /FS -c "C:\\GELOT\\DEUXIEME ANNEE\\0.PROJET\\GithubPage\\test\\out\\build\\x64-debug\\vcpkg_installed\\vcpkg\\blds\\openal-soft\\x64-windows-rel\\CMakeFiles\\CMakeScratch\\TryCompile-akiyl8\\CheckSymbolExists.c"
+        FAILED: CMakeFiles/cmTC_23d1a.dir/CheckSymbolExists.c.obj 
+        C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /utf-8 /MP   /D_DEBUG /MDd /Z7 /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_23d1a.dir\\CheckSymbolExists.c.obj /FdCMakeFiles\\cmTC_23d1a.dir\\ /FS -c "C:\\GELOT\\DEUXIEME ANNEE\\0.PROJET\\GithubPage\\test\\out\\build\\x64-debug\\vcpkg_installed\\vcpkg\\blds\\openal-soft\\x64-windows-rel\\CMakeFiles\\CMakeScratch\\TryCompile-akiyl8\\CheckSymbolExists.c"
+        C:\\GELOT\\DEUXIEME ANNEE\\0.PROJET\\GithubPage\\test\\out\\build\\x64-debug\\vcpkg_installed\\vcpkg\\blds\\openal-soft\\x64-windows-rel\\CMakeFiles\\CMakeScratch\\TryCompile-akiyl8\\CheckSymbolExists.c(2): fatal error C1083: Impossible d'ouvrir le fichier include : 'libproc.h' : No such file or directory
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CheckSymbolExists.cmake:140 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CheckSymbolExists.cmake:66 (__CHECK_SYMBOL_EXISTS_IMPL)"
+      - "CMakeLists.txt:585 (check_symbol_exists)"
+    checks:
+      - "Looking for getopt"
+    directories:
+      source: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-8cz54t"
+      binary: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-8cz54t"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /utf-8 /MP "
+      CMAKE_MODULE_PATH: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/src/1.23.1-180897dbaa.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:dynamic,dynamic>:DLL>"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_CRT_LINKAGE: "dynamic"
+      VCPKG_CXX_FLAGS: ""
+      VCPKG_CXX_FLAGS_DEBUG: ""
+      VCPKG_CXX_FLAGS_RELEASE: ""
+      VCPKG_C_FLAGS: ""
+      VCPKG_C_FLAGS_DEBUG: ""
+      VCPKG_C_FLAGS_RELEASE: ""
+      VCPKG_INSTALLED_DIR: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed"
+      VCPKG_LINKER_FLAGS: ""
+      VCPKG_LINKER_FLAGS_DEBUG: ""
+      VCPKG_LINKER_FLAGS_RELEASE: ""
+      VCPKG_PLATFORM_TOOLSET: "v143"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_SET_CHARSET_FLAG: "ON"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+    buildResult:
+      variable: "HAVE_GETOPT"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-8cz54t'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_6ca45
+        [1/2] C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /utf-8 /MP   /D_DEBUG /MDd /Z7 /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_6ca45.dir\\CheckSymbolExists.c.obj /FdCMakeFiles\\cmTC_6ca45.dir\\ /FS -c "C:\\GELOT\\DEUXIEME ANNEE\\0.PROJET\\GithubPage\\test\\out\\build\\x64-debug\\vcpkg_installed\\vcpkg\\blds\\openal-soft\\x64-windows-rel\\CMakeFiles\\CMakeScratch\\TryCompile-8cz54t\\CheckSymbolExists.c"
+        FAILED: CMakeFiles/cmTC_6ca45.dir/CheckSymbolExists.c.obj 
+        C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /utf-8 /MP   /D_DEBUG /MDd /Z7 /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_6ca45.dir\\CheckSymbolExists.c.obj /FdCMakeFiles\\cmTC_6ca45.dir\\ /FS -c "C:\\GELOT\\DEUXIEME ANNEE\\0.PROJET\\GithubPage\\test\\out\\build\\x64-debug\\vcpkg_installed\\vcpkg\\blds\\openal-soft\\x64-windows-rel\\CMakeFiles\\CMakeScratch\\TryCompile-8cz54t\\CheckSymbolExists.c"
+        C:\\GELOT\\DEUXIEME ANNEE\\0.PROJET\\GithubPage\\test\\out\\build\\x64-debug\\vcpkg_installed\\vcpkg\\blds\\openal-soft\\x64-windows-rel\\CMakeFiles\\CMakeScratch\\TryCompile-8cz54t\\CheckSymbolExists.c(2): fatal error C1083: Impossible d'ouvrir le fichier include : 'unistd.h' : No such file or directory
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "CMakeLists.txt:1034 (check_include_file)"
+    checks:
+      - "Looking for mmdeviceapi.h"
+    directories:
+      source: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-oi8rws"
+      binary: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-oi8rws"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /utf-8 /MP "
+      CMAKE_MODULE_PATH: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/src/1.23.1-180897dbaa.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:dynamic,dynamic>:DLL>"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_CRT_LINKAGE: "dynamic"
+      VCPKG_CXX_FLAGS: ""
+      VCPKG_CXX_FLAGS_DEBUG: ""
+      VCPKG_CXX_FLAGS_RELEASE: ""
+      VCPKG_C_FLAGS: ""
+      VCPKG_C_FLAGS_DEBUG: ""
+      VCPKG_C_FLAGS_RELEASE: ""
+      VCPKG_INSTALLED_DIR: "C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed"
+      VCPKG_LINKER_FLAGS: ""
+      VCPKG_LINKER_FLAGS_DEBUG: ""
+      VCPKG_LINKER_FLAGS_RELEASE: ""
+      VCPKG_PLATFORM_TOOLSET: "v143"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_SET_CHARSET_FLAG: "ON"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg"
+    buildResult:
+      variable: "HAVE_MMDEVICEAPI_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/openal-soft/x64-windows-rel/CMakeFiles/CMakeScratch/TryCompile-oi8rws'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_14443
+        [1/2] C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /utf-8 /MP   /D_DEBUG /MDd /Z7 /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_14443.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_14443.dir\\ /FS -c "C:\\GELOT\\DEUXIEME ANNEE\\0.PROJET\\GithubPage\\test\\out\\build\\x64-debug\\vcpkg_installed\\vcpkg\\blds\\openal-soft\\x64-windows-rel\\CMakeFiles\\CMakeScratch\\TryCompile-oi8rws\\CheckIncludeFile.c"
+        [2/2] C:\\windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_14443.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_14443.dir\\CheckIncludeFile.c.obj  /out:cmTC_14443.exe /implib:cmTC_14443.lib /pdb:cmTC_14443.pdb /version:0.0 /machine:x64  /nologo    /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+...

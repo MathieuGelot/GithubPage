@@ -1,0 +1,22 @@
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/lib/OpenAL32.lib
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/bin/OpenAL32.dll
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/lib/cmake/OpenAL/OpenALTargets.cmake
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/lib/cmake/OpenAL/OpenALTargets-debug.cmake
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/include/AL/al.h
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/include/AL/alc.h
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/include/AL/alext.h
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/include/AL/efx-creative.h
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/include/AL/efx-presets.h
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/include/AL/efx.h
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/lib/pkgconfig/openal.pc
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/lib/cmake/OpenAL/OpenALConfig.cmake
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/share/openal/alsoftrc.sample
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/share/openal/hrtf/Default HRTF.mhr
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/share/openal/presets/3D7.1.ambdec
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/share/openal/presets/hex-quad.ambdec
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/share/openal/presets/hexagon.ambdec
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/share/openal/presets/itu5.1-nocenter.ambdec
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/share/openal/presets/itu5.1.ambdec
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/share/openal/presets/presets.txt
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/share/openal/presets/rectangle.ambdec
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/share/openal/presets/square.ambdec

@@ -1,0 +1,29 @@
+-- Downloading https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download;https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download?use_mirror=cfhcable;https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download?use_mirror=pilotfiber;https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download?use_mirror=gigenet;https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download?use_mirror=versaweb;https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download?use_mirror=ayera;https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download?use_mirror=netactuate;https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download?use_mirror=phoenixnap;https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download?use_mirror=astuteinternet;https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download?use_mirror=freefr;https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download?use_mirror=netcologne;https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download?use_mirror=deac-riga;https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download?use_mirror=excellmedia;https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download?use_mirror=iweb;https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download?use_mirror=jaist;https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download?use_mirror=jztkft;https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download?use_mirror=managedway;https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download?use_mirror=nchc;https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download?use_mirror=netix;https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download?use_mirror=ufpr;https://sourceforge.net/projects/freetype/files/freetype2/2.13.2/freetype-2.13.2.tar.xz/download?use_mirror=tenet -> freetype-2.13.2.tar.xz...
+-- Extracting source C:/Users/m.gelot/AppData/Local/vcpkg/downloads/freetype-2.13.2.tar.xz
+-- Applying patch 0003-Fix-UWP.patch
+-- Applying patch brotli-static.patch
+-- Applying patch bzip2.patch
+-- Applying patch fix-exports.patch
+-- Using source at C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/freetype/src/freetype-2-dec0fa0f13.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-dbg
+-- Building x64-windows-rel
+CMake Warning at scripts/cmake/vcpkg_copy_pdbs.cmake:44 (message):
+  Could not find a matching pdb file for:
+
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/freetype_x64-windows/bin/freetype.dll
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/freetype_x64-windows/debug/bin/freetyped.dll
+
+Call Stack (most recent call first):
+  C:/Users/m.gelot/AppData/Local/vcpkg/registries/git-trees/443f320ccf3139bc1818f0cc273944a56e960d6e/portfile.cmake:36 (vcpkg_copy_pdbs)
+  scripts/ports.cmake:192 (include)
+
+
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/freetype_x64-windows/lib/pkgconfig/freetype2.pc
+-- Using cached msys2-mingw-w64-x86_64-pkgconf-1~2.2.0-1-any.pkg.tar.zst.
+-- Using cached msys2-msys2-runtime-3.5.3-3-x86_64.pkg.tar.zst.
+-- Using msys root at C:/Users/m.gelot/AppData/Local/vcpkg/downloads/tools/msys2/1e74ca60daa10104
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/freetype_x64-windows/debug/lib/pkgconfig/freetype2.pc
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/freetype_x64-windows/share/freetype/usage
+-- Exécution de la validation post-build

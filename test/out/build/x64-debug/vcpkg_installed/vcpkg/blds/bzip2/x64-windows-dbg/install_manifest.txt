@@ -1,0 +1,2 @@
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/bzip2_x64-windows/debug/lib/bz2d.lib
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/bzip2_x64-windows/debug/bin/bz2d.dll

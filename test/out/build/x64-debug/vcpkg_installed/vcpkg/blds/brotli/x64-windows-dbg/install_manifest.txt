@@ -1,0 +1,12 @@
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/tools/brotli/brotli.exe
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/lib/brotlienc.lib
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/bin/brotlienc.dll
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/lib/brotlidec.lib
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/bin/brotlidec.dll
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/lib/brotlicommon.lib
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/bin/brotlicommon.dll
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/share/unofficial-brotli/unofficial-brotli-config.cmake
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/share/unofficial-brotli/unofficial-brotli-config-debug.cmake
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/lib/pkgconfig/libbrotlicommon.pc
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/lib/pkgconfig/libbrotlidec.pc
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/lib/pkgconfig/libbrotlienc.pc

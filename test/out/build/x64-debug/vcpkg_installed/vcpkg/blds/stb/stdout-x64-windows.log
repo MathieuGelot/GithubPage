@@ -1,0 +1,8 @@
+-- Downloading https://github.com/nothings/stb/archive/5736b15f7ea0ffb08dd38af21067c314d6a3aae9.tar.gz -> nothings-stb-5736b15f7ea0ffb08dd38af21067c314d6a3aae9.tar.gz...
+-- Extracting source C:/Users/m.gelot/AppData/Local/vcpkg/downloads/nothings-stb-5736b15f7ea0ffb08dd38af21067c314d6a3aae9.tar.gz
+-- Using source at C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/stb/src/14d6a3aae9-dc9b68ccde.clean
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/stb_x64-windows/share/stb/FindStb.cmake
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/stb_x64-windows/share/stb/vcpkg-cmake-wrapper.cmake
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/stb_x64-windows/share/stb/usage
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/stb_x64-windows/share/stb/copyright
+-- Exécution de la validation post-build

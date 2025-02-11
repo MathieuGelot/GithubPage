@@ -3,6 +3,12 @@
 #
 cmake_minimum_required (VERSION 3.8)
 
+find_program(CCACHE_PROGRAM ccache)
+if(CCACHE_PROGRAM)
+	set(CMAKE_C_COMPILER_LAUNCHER ccache)
+	set(CMAKE_CXX_COMPILER_LAUNCHER ccache)
+endif()
+
 # Activez Rechargement à chaud pour les compilateurs MSVC si cela est pris en charge.
 if (POLICY CMP0141)
   cmake_policy(SET CMP0141 NEW)
@@ -14,4 +20,3 @@ project ("test")
 # Incluez les sous-projets.
 add_subdirectory (src)
 add_subdirectory(include) 
-

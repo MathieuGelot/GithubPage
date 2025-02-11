@@ -1,0 +1,31 @@
+-- Using cached xiph-flac-1.4.3.tar.gz.
+-- Extracting source C:/Users/m.gelot/AppData/Local/vcpkg/downloads/xiph-flac-1.4.3.tar.gz
+-- Applying patch fix-compile-options.patch
+-- Using source at C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/libflac/src/1.4.3-00043104ae.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-dbg
+-- Building x64-windows-rel
+CMake Warning at scripts/cmake/vcpkg_copy_pdbs.cmake:44 (message):
+  Could not find a matching pdb file for:
+
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libflac_x64-windows/bin/FLAC++.dll
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libflac_x64-windows/bin/FLAC.dll
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libflac_x64-windows/debug/bin/FLAC++.dll
+      C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libflac_x64-windows/debug/bin/FLAC.dll
+
+Call Stack (most recent call first):
+  C:/Users/m.gelot/AppData/Local/vcpkg/registries/git-trees/a92a3397dfb70e6eec94fab7b3665a1288d9f7bd/portfile.cmake:38 (vcpkg_copy_pdbs)
+  scripts/ports.cmake:192 (include)
+
+
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libflac_x64-windows/lib/pkgconfig/flac++.pc
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libflac_x64-windows/lib/pkgconfig/flac.pc
+-- Using cached msys2-mingw-w64-x86_64-pkgconf-1~2.2.0-1-any.pkg.tar.zst.
+-- Using cached msys2-msys2-runtime-3.5.3-3-x86_64.pkg.tar.zst.
+-- Using msys root at C:/Users/m.gelot/AppData/Local/vcpkg/downloads/tools/msys2/1e74ca60daa10104
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libflac_x64-windows/debug/lib/pkgconfig/flac++.pc
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libflac_x64-windows/debug/lib/pkgconfig/flac.pc
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libflac_x64-windows/share/libflac/copyright
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/libflac_x64-windows/share/libflac/usage
+-- Exécution de la validation post-build

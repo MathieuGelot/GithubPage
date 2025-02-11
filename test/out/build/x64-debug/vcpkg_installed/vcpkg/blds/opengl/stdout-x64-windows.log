@@ -1,0 +1,15 @@
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/opengl_x64-windows/include/GL/gl.h
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/opengl_x64-windows/include/GL/glu.h
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/opengl_x64-windows/lib/OpenGL32.Lib
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/opengl_x64-windows/lib/GlU32.Lib
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/opengl_x64-windows/debug/lib/OpenGL32.Lib
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/opengl_x64-windows/debug/lib/GlU32.Lib
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/opengl_x64-windows/lib/pkgconfig/glu.pc
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/opengl_x64-windows/lib/pkgconfig/opengl.pc
+-- Using cached msys2-mingw-w64-x86_64-pkgconf-1~2.2.0-1-any.pkg.tar.zst.
+-- Using cached msys2-msys2-runtime-3.5.3-3-x86_64.pkg.tar.zst.
+-- Using msys root at C:/Users/m.gelot/AppData/Local/vcpkg/downloads/tools/msys2/1e74ca60daa10104
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/opengl_x64-windows/debug/lib/pkgconfig/glu.pc
+-- Fixing pkgconfig file: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/opengl_x64-windows/debug/lib/pkgconfig/opengl.pc
+-- Installing: C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/pkgs/opengl_x64-windows/share/opengl/usage
+-- Exécution de la validation post-build

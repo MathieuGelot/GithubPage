@@ -1,0 +1,9 @@
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/brotli/x64-windows-rel/CMakeFiles/brotlicommon.dir
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/brotli/x64-windows-rel/CMakeFiles/brotlidec.dir
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/brotli/x64-windows-rel/CMakeFiles/brotlienc.dir
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/brotli/x64-windows-rel/CMakeFiles/brotli.dir
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/brotli/x64-windows-rel/CMakeFiles/edit_cache.dir
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/brotli/x64-windows-rel/CMakeFiles/rebuild_cache.dir
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/brotli/x64-windows-rel/CMakeFiles/list_install_components.dir
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/brotli/x64-windows-rel/CMakeFiles/install.dir
+C:/GELOT/DEUXIEME ANNEE/0.PROJET/GithubPage/test/out/build/x64-debug/vcpkg_installed/vcpkg/blds/brotli/x64-windows-rel/CMakeFiles/install/local.dir
