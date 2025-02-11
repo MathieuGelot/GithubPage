@@ -1,0 +1,1 @@
+﻿add_library(exo STATIC "exo.cpp" exo.h)
